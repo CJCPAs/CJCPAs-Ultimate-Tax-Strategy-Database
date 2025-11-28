@@ -6,7 +6,7 @@
 
 ## Overview
 
-This comprehensive encyclopedia provides detailed documentation of tax planning strategies for CPAs, tax professionals, and financial advisors. Each strategy includes requirements, risks, client fit criteria, and implementation steps. With **75+ strategies across 15 categories**, this is the definitive resource for tax planning—updated for **2025-2026 effective dates** including TCJA sunset planning.
+This comprehensive encyclopedia provides detailed documentation of tax planning strategies for CPAs, tax professionals, and financial advisors. Each strategy includes requirements, risks, client fit criteria, and implementation steps. With **85+ strategies across 18 categories**, this is the definitive resource for tax planning—updated for **2025-2026 effective dates** including TCJA sunset planning.
 
 ## 2026 TCJA Sunset Alert
 
@@ -51,15 +51,19 @@ Many provisions of the Tax Cuts and Jobs Act of 2017 are scheduled to expire aft
 
 ### Charitable Giving
 - [Charitable Strategies](strategies/charitable-strategies.md) - CRTs, DAFs, and bunching strategies
+- [Charitable Lead Trusts](strategies/charitable-lead-trusts.md) - CLATs and CLUTs for wealth transfer
 
 ### Advanced Strategies
 - [Captive Insurance](strategies/captive-insurance.md) - Self-insurance premium deductions
 - [Conservation Easements](strategies/conservation-easements.md) - Land preservation tax benefits
 - [R&D Credits](strategies/rd-credits.md) - Research and Development tax credits
+- [Split-Dollar Life Insurance](strategies/split-dollar-life-insurance.md) - Executive comp and estate planning with life insurance
 
-### Exit Planning
+### Exit Planning & Business Sales
 - [Exit Planning](strategies/exit-planning.md) - Business succession and sale strategies
 - [QSBS (Section 1202)](strategies/qsbs.md) - Qualified Small Business Stock exclusion (up to 100%)
+- [Asset vs. Stock Sales](strategies/asset-vs-stock-sales.md) - Section 338 elections and transaction structuring
+- [NOL Planning](strategies/nol-planning.md) - Net operating loss strategies and Section 382
 
 ### Estate & Gift Tax Planning
 - [Lifetime Gift Tax Strategies](strategies/lifetime-gift-tax-strategies.md) - Annual exclusions and unified credit planning
@@ -72,6 +76,13 @@ Many provisions of the Tax Cuts and Jobs Act of 2017 are scheduled to expire aft
 - [Dynasty Trusts](strategies/dynasty-trusts.md) - Multi-generational wealth transfer
 - [GSTT Planning](strategies/gstt-planning.md) - Generation-Skipping Transfer Tax strategies
 - [Portability Elections](strategies/portability-elections.md) - Deceased Spousal Unused Exclusion (DSUE)
+- [Trust Taxation](strategies/trust-taxation.md) - Trust income tax, DNI, and compressed brackets
+
+### Partnership Taxation
+- [Section 754 Elections](strategies/section-754-elections.md) - Partnership basis adjustments on transfers
+
+### S-Corporation Planning
+- [S-Corp Reasonable Compensation](strategies/s-corp-reasonable-compensation.md) - IRS requirements and audit defense
 
 ### Compensation & Equity Planning
 - [Stock Options](strategies/stock-options.md) - ISOs vs. NQSOs, timing, and AMT implications
@@ -90,13 +101,14 @@ Many provisions of the Tax Cuts and Jobs Act of 2017 are scheduled to expire aft
 - [State Tax Residency](strategies/state-tax-residency.md) - Domicile changes and planning
 - [Education Tax Benefits](strategies/education-tax-benefits.md) - 529 plans, credits, and deductions
 
-### Business Deductions
+### Business Deductions & Credits
 - [Section 179 Deduction](strategies/section-179-deduction.md) - Immediate expensing of business assets
 - [Accountable Plans](strategies/accountable-plans.md) - Tax-free employee reimbursements
 - [Home Office Deduction](strategies/home-office-deduction.md) - Comprehensive home office guide
 - [Vehicle Deductions](strategies/vehicle-deductions.md) - Actual vs. standard mileage, MACRS
 - [SALT Workarounds](strategies/salt-workarounds.md) - Pass-Through Entity Tax elections
 - [Meals & Entertainment](strategies/meals-entertainment.md) - Current deduction rules
+- [Business Tax Credits](strategies/business-tax-credits.md) - WOTC, Disabled Access, and employment credits
 
 ### International Tax
 - [Foreign Tax Credit](strategies/foreign-tax-credit.md) - Credit for foreign taxes paid
@@ -226,6 +238,6 @@ BY USING THIS GUIDE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE T
 ---
 
 *Last Updated: 2025*
-*Total Strategies: 75+*
-*Categories: 15*
+*Total Strategies: 85+*
+*Categories: 18*
 *Critical Planning Window: Now Through December 31, 2025*
