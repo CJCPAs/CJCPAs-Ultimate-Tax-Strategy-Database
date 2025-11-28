@@ -47,7 +47,7 @@ Health Savings Accounts (HSAs) offer a unique triple tax advantage: tax-deductib
 | Catch-up Contributions (55+) | 2004 | Permanent at $1,000 additional |
 | Expanded OTC Coverage | CARES Act March 2020 | Permanent |
 
-**2026 Tax Year**: HSAs remain one of the most tax-advantaged savings vehicles available. Contribution limits are indexed for inflation. The strategy of using HSA as a "stealth IRA" by paying medical expenses out-of-pocket and letting HSA grow tax-free remains highly effective.
+**2026 Tax Year**: HSAs remain one of the most tax-advantaged savings vehicles available. Contribution limits are indexed for inflation. The strategy of using HSA as a "stealth IRA" (paying medical expenses out-of-pocket while letting HSA funds grow tax-free for decades, then reimbursing yourself later—see "HSA as Stealth IRA Strategy" section below) remains highly effective.
 
 ### Eligibility Requirements
 - Covered by HDHP on 1st of month

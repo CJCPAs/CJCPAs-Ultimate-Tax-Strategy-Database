@@ -38,6 +38,8 @@ Section 199A provides a deduction of up to 20% of Qualified Business Income (QBI
 
 **⚠️ Important**: Section 199A is currently scheduled to expire after December 31, 2025, under the Tax Cuts and Jobs Act (TCJA). Congress may extend or make permanent this provision. Monitor legislative developments for 2026 applicability.
 
+**If Section 199A Expires**: Consider increased focus on entity structuring for self-employment tax savings, retirement plan optimization, and other deduction strategies. The relative value of C corporation structure may increase compared to pass-through entities.
+
 ## Requirements
 
 ### Qualified Business Income
