@@ -62,10 +62,6 @@ Verify with Professionals: Before implementing any accounting methods, chart of 
 
 Accuracy Not Guaranteed: While every effort has been made to ensure the accuracy and completeness of the information in this guide, accounting standards (GAAP), tax laws, and software features change frequently. The author(s) make no guarantees that the information is current, complete, or error-free.
 
-Software Changes: QuickBooks Online is a third-party software product that is updated frequently. Screenshots, features, menu locations, and workflows described in this guide may differ from the current version of the software. Always refer to official Intuit/QuickBooks documentation for the most current information.
-
-State and Local Variations: Construction accounting requirements, lien laws, retention rules, and tax obligations vary significantly by state, county, and municipality. This guide provides general guidance and may not address requirements specific to your jurisdiction.
-
 Limitation of Liability: In no event shall the author(s), publisher(s), or contributors be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising out of or related to your use of or reliance on this guide.
 
 Your Responsibility: You are solely responsible for determining whether the information in this guide is appropriate for your situation and for any actions you take based on this information.
