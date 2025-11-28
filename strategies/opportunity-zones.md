@@ -13,12 +13,29 @@ Qualified Opportunity Zones (QOZs) were created by the Tax Cuts and Jobs Act of 
 
 ## Tax Benefit Summary
 
-| Benefit | Requirement | Status (2024) |
+| Benefit | Requirement | Status (2026) |
 |---------|-------------|---------------|
-| Gain Deferral | Invest gain in QOF | Available |
+| Gain Deferral | Invest gain in QOF | **Ends 12/31/2026** - All deferred gains recognized |
 | 10% Basis Step-up | 5-year hold | Expired (needed investment by 12/31/2019) |
 | 15% Basis Step-up | 7-year hold | Expired (needed investment by 12/31/2017) |
-| Exclusion of QOF Appreciation | 10-year hold | Available |
+| Exclusion of QOF Appreciation | 10-year hold | Available through 2047 (for 2026 investments held 10+ years) |
+
+## Effective Dates
+
+| Provision | Effective Date | Expiration |
+|-----------|---------------|------------|
+| QOZ Designation | Tax Cuts and Jobs Act December 22, 2017 | Zone designations through 2028 (most zones) |
+| Capital Gains Deferral | December 22, 2017 | **December 31, 2026** |
+| 10% Basis Step-up | Required 5-year hold | Expired - Required investment by 12/31/2019 |
+| 15% Basis Step-up | Required 7-year hold | Expired - Required investment by 12/31/2017 |
+| 10-Year Appreciation Exclusion | 10-year hold from investment | Active - Available for investments held through 2036+ |
+| Working Capital Safe Harbor | Final Regulations 2020 | Active |
+
+**2026 Tax Year - Critical Dates**:
+- **December 31, 2026**: ALL deferred gains from QOF investments will be recognized and taxable. Plan for this significant tax liability.
+- New investments in 2026 still qualify for the 10-year appreciation exclusion (gains excluded if held until 2036+).
+- No basis step-up benefits remain available for new investments.
+- QOZ investing in 2026 primarily provides appreciation exclusion benefit only.
 
 ## Requirements
 
@@ -298,4 +315,4 @@ Investor sells appreciated stock for $2,000,000 gain in 2024. Invests $2,000,000
 
 ---
 
-*Last Updated: 2025*
+*Last Updated: 11.27.25*

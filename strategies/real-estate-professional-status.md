@@ -293,6 +293,22 @@ Dr. Jones earns $800,000 as a surgeon. Spouse manages 8 rental properties with c
 - [Bonus Depreciation](bonus-depreciation.md)
 - [199A Maximization](199a-maximization.md)
 
+## Effective Dates
+
+| Provision | Effective Date | Status |
+|-----------|---------------|--------|
+| Real Estate Professional Exception | Revenue Reconciliation Act 1993 | Permanent |
+| 750-Hour Test | 1993 | Permanent |
+| Material Participation Requirements | Section 469 Regulations | Permanent |
+| Aggregation Election | 1993 | Permanent |
+
+**2026 Tax Year**: REPS remains fully available for 2026. This strategy is especially valuable when combined with:
+- Cost segregation (even at 20% bonus depreciation in 2026)
+- Standard MACRS depreciation acceleration
+- 199A deduction on rental income (if extended beyond 2025)
+
+Note: If Section 199A expires after 2025, REPS becomes even more valuable as it remains the primary way to unlock rental real estate losses against other income.
+
 ---
 
-*Last Updated: 2025*
+*Last Updated: 11.27.25*

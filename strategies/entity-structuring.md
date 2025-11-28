@@ -161,6 +161,22 @@ Sarah operates a consulting business as a sole proprietor with $200,000 net inco
 - [Retirement Plan Optimization](retirement-plan-optimization.md)
 - [Exit Planning](exit-planning.md)
 
+## Effective Dates
+
+| Provision | Effective Date | Status |
+|-----------|---------------|--------|
+| S Corporation Election | Subchapter S Revision Act 1982 | Permanent |
+| LLC/Partnership Taxation | Check-the-box regulations 1997 | Permanent |
+| C Corporation 21% Rate | January 1, 2018 (TCJA) | Permanent |
+| QSBS 100% Exclusion | After September 27, 2010 | Permanent |
+| Section 199A Pass-through Deduction | January 1, 2018 | Expires December 31, 2025 (unless extended) |
+
+**2026 Tax Year Considerations**:
+- S corporation election remains beneficial for self-employment tax savings.
+- **Critical**: Section 199A pass-through deduction expires after 2025 unless Congress extends it. This may significantly impact the comparison between entity types.
+- C corporation 21% rate is permanent and may become relatively more attractive if Section 199A expires.
+- Monitor legislative developments regarding TCJA extension.
+
 ---
 
-*Last Updated: 2025*
+*Last Updated: 11.27.25*

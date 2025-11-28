@@ -355,6 +355,22 @@ Long-term Result:
 - [Charitable Strategies](charitable-strategies.md)
 - [Defined Benefit Plans](defined-benefit-plans.md)
 
+## Effective Dates
+
+| Strategy | Provision | Effective Date | Status |
+|----------|-----------|---------------|--------|
+| QSBS Exclusion | Section 1202 | 100% exclusion for stock acquired after 9/27/2010 | Permanent |
+| Installment Sales | Section 453 | Long-standing | Permanent - Active for 2026 |
+| Opportunity Zone Deferral | Section 1400Z-2 | December 22, 2017 | Deferral ends 12/31/2026 |
+| CRT for Business Sales | Section 664 | Long-standing | Permanent - Active for 2026 |
+| ESOP Section 1042 Rollover | Section 1042 | Long-standing | Permanent - Active for 2026 |
+
+**2026 Tax Year Planning**:
+- **Opportunity Zones**: All deferred gains must be recognized by December 31, 2026. Plan for this tax liability.
+- **QSBS**: Remains fully available with 100% exclusion potential.
+- **Section 199A**: May impact pass-through entity sale valuations if it expires after 2025.
+- Consider accelerating exit planning discussions given potential tax law changes.
+
 ---
 
-*Last Updated: 2025*
+*Last Updated: 11.27.25*

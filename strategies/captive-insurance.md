@@ -16,7 +16,7 @@ A captive insurance company is a licensed insurance company owned by a business 
 ## Small Insurance Company Election (831(b))
 
 ### Overview
-- Premium income up to $2.65 million (2024) can elect 831(b) status
+- Premium income up to $2.80 million (2026 projected, indexed for inflation) can elect 831(b) status
 - Only investment income taxed (not underwriting profits)
 - Creates significant tax deferral opportunity
 - Popular structure for closely-held businesses
@@ -24,10 +24,22 @@ A captive insurance company is a licensed insurance company owned by a business 
 ### Key Features
 | Feature | 831(b) Captive | Regular Captive |
 |---------|---------------|-----------------|
-| Max Premiums | $2.65M (2024) | Unlimited |
+| Max Premiums | $2.80M (2026 projected) | Unlimited |
 | Taxed On | Investment income only | Underwriting + investment |
 | Complexity | Moderate | Higher |
 | IRS Scrutiny | High | Moderate |
+
+## Effective Dates
+
+| Provision | Effective Date | Status |
+|-----------|---------------|--------|
+| Section 831(b) Small Insurance Company Election | Long-standing | Permanent |
+| Premium Limit Increase to $2.2M | January 1, 2017 (PATH Act) | Active |
+| Annual Inflation Indexing | January 1, 2017 | Ongoing |
+| Diversification Requirement | December 18, 2015 | Active |
+| Notice 2016-66 Listed Transaction Reporting | November 1, 2016 | Active |
+
+**2026 Tax Year**: The 831(b) premium limit is indexed for inflation. The projected 2026 limit is approximately $2.80 million (subject to IRS annual announcement). This strategy remains available but continues to face heightened IRS scrutiny.
 
 ## Requirements
 
@@ -314,4 +326,4 @@ ABC Construction, LLC generates $10 million annual revenue. Current commercial i
 
 ---
 
-*Last Updated: 2025*
+*Last Updated: 11.27.25*

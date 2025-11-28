@@ -138,6 +138,23 @@ Cost segregation is an IRS-approved tax strategy that accelerates depreciation d
 | 2026 | 20% |
 | 2027+ | 0% |
 
+*Note: Congress may extend or restore bonus depreciation. Monitor legislative developments.*
+
+## Effective Dates
+
+| Provision | Effective Date | Status |
+|-----------|---------------|--------|
+| Cost Segregation (IRS-Approved) | 1997 (Hospital Corporation of America decision) | Permanent |
+| MACRS Depreciation | 1986 (Tax Reform Act) | Permanent |
+| Bonus Depreciation Phase-out | Began 2023 | 20% for 2026 |
+| Look-back Studies (Form 3115) | Long-standing | Active for 2026 |
+| IRS Cost Segregation Audit Technique Guide | Updated 2022 | Current guidance |
+
+**2026 Tax Year**: Cost segregation remains highly valuable for 2026, though the benefit is reduced due to 20% bonus depreciation rate. Consider:
+- Accelerating purchases to 2025 for 40% bonus
+- Look-back studies on properties acquired in prior years to capture higher bonus rates
+- Standard MACRS depreciation still provides significant acceleration without bonus
+
 ### Calculation Example
 $2,000,000 commercial building purchased in 2024:
 - 25% reclassified as 5/7/15-year property = $500,000
@@ -239,4 +256,4 @@ For properties acquired in prior years:
 
 ---
 
-*Last Updated: 2025*
+*Last Updated: 11.27.25*

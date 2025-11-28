@@ -20,12 +20,25 @@ Section 199A provides a deduction of up to 20% of Qualified Business Income (QBI
    - 50% of W-2 wages paid, or
    - 25% of W-2 wages + 2.5% of UBIA (unadjusted basis of qualified property)
 
-### Taxable Income Thresholds (2024)
+### Taxable Income Thresholds (2026)
 
 | Filing Status | Full Deduction Below | Phase-out Range | Fully Limited Above |
 |--------------|---------------------|-----------------|-------------------|
-| Single | $182,100 | $182,100 - $232,100 | $232,100 |
-| MFJ | $364,200 | $364,200 - $464,200 | $464,200 |
+| Single | $191,950 | $191,950 - $241,950 | $241,950 |
+| MFJ | $383,900 | $383,900 - $483,900 | $483,900 |
+
+*Note: Thresholds are indexed for inflation. 2026 amounts are projected estimates based on historical inflation adjustments.*
+
+## Effective Dates
+
+| Provision | Effective Date | Expiration |
+|-----------|---------------|------------|
+| Section 199A Deduction | January 1, 2018 | December 31, 2025 (scheduled) |
+| Current Law Extension | Pending Congressional Action | TBD |
+
+**⚠️ Important**: Section 199A is currently scheduled to expire after December 31, 2025, under the Tax Cuts and Jobs Act (TCJA). Congress may extend or make permanent this provision. Monitor legislative developments for 2026 applicability.
+
+**If Section 199A Expires**: Consider increased focus on entity structuring for self-employment tax savings, retirement plan optimization, and other deduction strategies. The relative value of C corporation structure may increase compared to pass-through entities.
 
 ## Requirements
 
@@ -234,4 +247,4 @@ Medical practice group with $1,000,000 combined QBI. Three physician partners. T
 
 ---
 
-*Last Updated: 2025*
+*Last Updated: 11.27.25*

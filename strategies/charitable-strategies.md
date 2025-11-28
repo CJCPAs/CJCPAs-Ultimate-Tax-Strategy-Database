@@ -337,6 +337,20 @@ Charitable bunching involves concentrating multiple years of charitable contribu
 - [Conservation Easements](conservation-easements.md)
 - [199A Maximization](199a-maximization.md)
 
+## Effective Dates
+
+| Strategy | Provision | Effective Date | Status |
+|----------|-----------|---------------|--------|
+| CRTs | IRC Section 664 | Long-standing | Permanent - Active for 2026 |
+| DAFs | IRC Section 4966 | Enacted 2006 (Pension Protection Act) | Permanent - Active for 2026 |
+| Standard Deduction (MFJ) | TCJA | 2018-2025 (currently $29,200 for 2024) | Scheduled to decrease after 2025 |
+| Charitable Bunching | N/A | Strategy-based, not statutory | Active for 2026 |
+
+**2026 Tax Year Considerations**:
+- The increased standard deduction under TCJA is scheduled to expire after 2025. If not extended, the standard deduction will decrease significantly in 2026, potentially making itemizing (including charitable deductions) more beneficial for many taxpayers.
+- Charitable bunching strategy may be less necessary if standard deduction reverts to pre-TCJA levels.
+- Monitor legislative developments regarding TCJA extension.
+
 ---
 
-*Last Updated: 2025*
+*Last Updated: 11.27.25*

@@ -24,7 +24,17 @@ Bonus depreciation allows businesses to immediately deduct a significant percent
 | 2026 | 20% |
 | 2027+ | 0% |
 
-*Note: Congress may extend or modify these rates*
+*Note: Congress may extend or modify these rates. Monitor legislative developments.*
+
+## Effective Dates
+
+| Provision | Effective Date | Expiration/Phase-out |
+|-----------|---------------|---------------------|
+| 100% Bonus Depreciation | Property placed in service after September 27, 2017 | Phased down starting 2023 |
+| Used Property Eligibility | September 28, 2017 | Follows bonus phase-out |
+| Qualified Improvement Property | January 1, 2018 (retroactive fix via CARES Act 2020) | Follows bonus phase-out |
+
+**2026 Tax Year**: Only 20% bonus depreciation available for property placed in service in 2026. Consider accelerating asset purchases to 2025 (40%) for greater tax benefit.
 
 ## Requirements
 
@@ -274,4 +284,4 @@ Year 1 Calculation:
 
 ---
 
-*Last Updated: 2025*
+*Last Updated: 11.27.25*

@@ -272,6 +272,17 @@ Savings: $66,000 (17% on commission)
 - [199A Maximization](199a-maximization.md)
 - [R&D Credits](rd-credits.md)
 
+## Effective Dates
+
+| Provision | Effective Date | Status |
+|-----------|---------------|--------|
+| IC-DISC Regime | Deficit Reduction Act 1984 | Permanent |
+| Qualified Dividend Treatment | Jobs and Growth Tax Relief Act 2003 | Permanent |
+| 50% Combined Taxable Income Method | Long-standing | Active for 2026 |
+| 4% Gross Receipts Method | Long-standing | Active for 2026 |
+
+**2026 Tax Year**: The IC-DISC strategy remains fully available for 2026. Qualified dividend rates (0%, 15%, or 20% depending on income) continue to provide significant tax arbitrage compared to ordinary income rates. This is one of the few permanent export incentives in the tax code.
+
 ---
 
-*Last Updated: 2025*
+*Last Updated: 11.27.25*

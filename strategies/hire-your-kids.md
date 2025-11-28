@@ -17,12 +17,23 @@ Employing your children in a legitimate family business provides powerful tax be
 
 | Parent's Bracket | Child's Wages | Parent Tax Savings | Child Tax | Net Family Savings |
 |-----------------|---------------|-------------------|-----------|-------------------|
-| 37% | $14,600 | $5,402 | $0 | $5,402 |
-| 35% | $14,600 | $5,110 | $0 | $5,110 |
-| 32% | $14,600 | $4,672 | $0 | $4,672 |
-| 24% | $14,600 | $3,504 | $0 | $3,504 |
+| 37% | $15,000 | $5,550 | $0 | $5,550 |
+| 35% | $15,000 | $5,250 | $0 | $5,250 |
+| 32% | $15,000 | $4,800 | $0 | $4,800 |
+| 24% | $15,000 | $3,600 | $0 | $3,600 |
 
-*2024 figures; standard deduction = $14,600*
+*2026 projected figures; standard deduction projected at approximately $15,000 (indexed for inflation)*
+
+## Effective Dates
+
+| Provision | Effective Date | Status |
+|-----------|---------------|--------|
+| FICA Exemption (Child Under 18) | Section 3121(b)(3)(A) | Permanent |
+| FUTA Exemption (Child Under 21) | Section 3306(c)(5) | Permanent |
+| Standard Deduction (Dependents) | Indexed annually | ~$15,000 projected for 2026 |
+| Kiddie Tax Rules | Tax Reform Act 1986 (modified 2018) | Permanent |
+
+**2026 Tax Year**: This strategy remains fully available for 2026. The standard deduction is indexed for inflation, projected at approximately $15,000. FICA and FUTA exemptions for children employed by sole proprietor/partnership parents are permanent provisions.
 
 ## Requirements
 
@@ -293,4 +304,4 @@ The Martinez family owns a landscaping sole proprietorship. Net income: $300,000
 
 ---
 
-*Last Updated: 2025*
+*Last Updated: 11.27.25*
