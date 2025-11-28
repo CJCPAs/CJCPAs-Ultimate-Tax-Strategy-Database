@@ -6,7 +6,19 @@
 
 ## Overview
 
-This comprehensive encyclopedia provides detailed documentation of tax planning strategies for CPAs, tax professionals, and financial advisors. Each strategy includes requirements, risks, client fit criteria, and implementation steps. With 50+ strategies across 12 categories, this is the definitive resource for tax planning.
+This comprehensive encyclopedia provides detailed documentation of tax planning strategies for CPAs, tax professionals, and financial advisors. Each strategy includes requirements, risks, client fit criteria, and implementation steps. With **75+ strategies across 15 categories**, this is the definitive resource for tax planning—updated for **2025-2026 effective dates** including TCJA sunset planning.
+
+## 2026 TCJA Sunset Alert
+
+Many provisions of the Tax Cuts and Jobs Act of 2017 are scheduled to expire after December 31, 2025:
+- **Estate/Gift/GST Exemption:** Drops from ~$13.99M to ~$7M per person
+- **Section 199A QBI Deduction:** Expires
+- **Individual Tax Rates:** Revert to higher pre-TCJA brackets
+- **Standard Deduction:** Returns to lower amounts
+
+**Critical Planning Window: Now through December 31, 2025**
+
+---
 
 ## Table of Contents
 
@@ -29,8 +41,13 @@ This comprehensive encyclopedia provides detailed documentation of tax planning 
 
 ### Real Estate Strategies
 - [Cost Segregation](strategies/cost-segregation.md) - Accelerated depreciation for real estate
-- [Bonus Depreciation](strategies/bonus-depreciation.md) - 100% first-year depreciation benefits
+- [Bonus Depreciation](strategies/bonus-depreciation.md) - First-year depreciation benefits (60% in 2024, phasing out)
 - [Opportunity Zones](strategies/opportunity-zones.md) - Capital gains deferral and exclusion
+- [1031 Like-Kind Exchanges](strategies/1031-exchanges.md) - Tax-deferred real estate exchanges
+- [Short-Term Rental Strategies](strategies/short-term-rentals.md) - STR tax benefits and the 7-day rule
+- [Self-Rental Rules](strategies/self-rental-rules.md) - Recharacterization rules and grouping elections
+- [Installment Sales](strategies/installment-sales.md) - Spreading gain recognition over time
+- [Section 121 Exclusion](strategies/section-121-exclusion.md) - Primary residence gain exclusion
 
 ### Charitable Giving
 - [Charitable Strategies](strategies/charitable-strategies.md) - CRTs, DAFs, and bunching strategies
@@ -42,6 +59,7 @@ This comprehensive encyclopedia provides detailed documentation of tax planning 
 
 ### Exit Planning
 - [Exit Planning](strategies/exit-planning.md) - Business succession and sale strategies
+- [QSBS (Section 1202)](strategies/qsbs.md) - Qualified Small Business Stock exclusion (up to 100%)
 
 ### Estate & Gift Tax Planning
 - [Lifetime Gift Tax Strategies](strategies/lifetime-gift-tax-strategies.md) - Annual exclusions and unified credit planning
@@ -50,6 +68,10 @@ This comprehensive encyclopedia provides detailed documentation of tax planning 
 - [Family Limited Partnerships](strategies/family-limited-partnerships.md) - FLPs and Family LLCs for wealth transfer
 - [SLATs](strategies/slats.md) - Spousal Lifetime Access Trusts
 - [IDGTs](strategies/idgts.md) - Intentionally Defective Grantor Trusts
+- [QPRTs](strategies/qprts.md) - Qualified Personal Residence Trusts
+- [Dynasty Trusts](strategies/dynasty-trusts.md) - Multi-generational wealth transfer
+- [GSTT Planning](strategies/gstt-planning.md) - Generation-Skipping Transfer Tax strategies
+- [Portability Elections](strategies/portability-elections.md) - Deceased Spousal Unused Exclusion (DSUE)
 
 ### Compensation & Equity Planning
 - [Stock Options](strategies/stock-options.md) - ISOs vs. NQSOs, timing, and AMT implications
@@ -80,6 +102,15 @@ This comprehensive encyclopedia provides detailed documentation of tax planning 
 - [Foreign Tax Credit](strategies/foreign-tax-credit.md) - Credit for foreign taxes paid
 - [Foreign Earned Income Exclusion](strategies/foreign-earned-income-exclusion.md) - FEIE and housing exclusion
 - [International Tax Compliance](strategies/international-tax-compliance.md) - FBAR, FATCA, and reporting requirements
+- [GILTI Planning](strategies/gilti-planning.md) - Global Intangible Low-Taxed Income strategies
+- [Subpart F Income](strategies/subpart-f-income.md) - CFC income planning
+- [Tax Treaty Benefits](strategies/tax-treaty-benefits.md) - Reduced withholding and treaty planning
+
+### Specialized Strategies
+- [Cryptocurrency Tax Planning](strategies/cryptocurrency-tax.md) - Digital asset taxation and planning
+- [Oil & Gas Tax Incentives](strategies/oil-gas-tax-incentives.md) - IDC, depletion, and working interest
+- [Energy Tax Credits](strategies/energy-tax-credits.md) - IRA 2022 solar, EV, and clean energy credits
+- [QSBS (Section 1202)](strategies/qsbs.md) - Qualified Small Business Stock exclusion
 
 ---
 
@@ -88,13 +119,16 @@ This comprehensive encyclopedia provides detailed documentation of tax planning 
 Each strategy document follows a consistent format:
 
 1. **Overview** - Brief description and key benefits
-2. **Requirements** - Eligibility criteria and prerequisites
-3. **Client Fit Criteria** - Who should consider this strategy
-4. **Implementation Steps** - Detailed action items
-5. **Risks & Considerations** - Potential downsides and compliance issues
-6. **Case Studies** - Real-world examples with calculations
-7. **Key Tax Code References** - Relevant IRC sections
-8. **Related Strategies** - Cross-references to complementary strategies
+2. **Effective Dates & Key Law Changes** - Current rules and 2026 sunset provisions
+3. **Requirements** - Eligibility criteria and prerequisites
+4. **Client Fit Criteria** - Who should consider this strategy
+5. **Implementation Steps** - Detailed action items
+6. **Risks & Considerations** - Potential downsides and compliance issues
+7. **Case Studies** - Real-world examples with calculations
+8. **Key Tax Code References** - Relevant IRC sections
+9. **Related Strategies** - Cross-references to complementary strategies
+
+---
 
 ## Strategy Selection Guide
 
@@ -102,39 +136,96 @@ Each strategy document follows a consistent format:
 
 | Client Type | Recommended Strategies |
 |-------------|----------------------|
-| Business Owners | Entity Structuring, 199A, Retirement Plans, Exit Planning |
-| High-Net-Worth | Estate Planning, GRATs, SLATs, IDGTs, Family LPs |
-| Executives | Stock Options, RSUs, NQDC, AMT Planning |
-| Real Estate Investors | Cost Segregation, REPS, Opportunity Zones |
-| Retirees | Social Security, Medicare IRMAA, Roth Conversions |
-| Expatriates | FEIE, Foreign Tax Credit, International Compliance |
+| **Business Owners** | Entity Structuring, 199A, Retirement Plans, Exit Planning, QSBS |
+| **High-Net-Worth** | Estate Planning, GRATs, SLATs, IDGTs, Dynasty Trusts, Family LPs |
+| **Executives** | Stock Options, RSUs, NQDC, AMT Planning, Section 83(b) |
+| **Real Estate Investors** | Cost Segregation, REPS, Opportunity Zones, 1031 Exchanges, STRs |
+| **Retirees** | Social Security, Medicare IRMAA, Roth Conversions |
+| **Expatriates** | FEIE, Foreign Tax Credit, International Compliance |
+| **Tech Founders** | QSBS, Section 83(b), Stock Options, Exit Planning |
+| **Crypto Investors** | Cryptocurrency Tax, Tax Loss Harvesting, Opportunity Zones |
 
 ### By Tax Situation
 
 | Situation | Recommended Strategies |
 |-----------|----------------------|
-| High current income | Retirement Plans, Defined Benefit, Deferred Comp |
-| Large capital gains | Opportunity Zones, Charitable Strategies, Tax Loss Harvesting |
-| Business sale | Exit Planning, QSBS, Installment Sales |
-| Estate planning | GRATs, SLATs, IDGTs, ILITs, Family LPs |
-| International exposure | FEIE, Foreign Tax Credit, FBAR/FATCA Compliance |
+| **High current income** | Retirement Plans, Defined Benefit, Deferred Comp, Energy Credits |
+| **Large capital gains** | Opportunity Zones, QSBS, Charitable Strategies, Tax Loss Harvesting, 1031 |
+| **Business sale** | Exit Planning, QSBS, Installment Sales, Opportunity Zones |
+| **Estate planning** | GRATs, SLATs, IDGTs, ILITs, Dynasty Trusts, Portability |
+| **International exposure** | FEIE, Foreign Tax Credit, GILTI, Subpart F, Treaties |
+| **Real estate income** | Cost Segregation, REPS, STRs, Self-Rental Rules |
 
-## ⚠️ Important Disclaimer
+### By 2026 Urgency
+
+| Strategy | 2026 Urgency Level | Action Required |
+|----------|-------------------|-----------------|
+| Estate/Gift Planning | **CRITICAL** | Use exemption before sunset |
+| Dynasty Trusts | **CRITICAL** | Fund with full GST exemption |
+| SLATs | **CRITICAL** | Establish before exemption drops |
+| GRATs | **HIGH** | Transfer appreciating assets |
+| Section 199A | **HIGH** | Maximize while available |
+| Bonus Depreciation | **HIGH** | Phase-out accelerating |
+| Roth Conversions | **MODERATE** | Lower brackets may end |
+| QSBS | **LOW** | 100% exclusion permanent |
+| Energy Credits | **LOW** | Extended through 2032+ |
+
+---
+
+## Quick Reference Tables
+
+### Key Dollar Amounts (2025)
+
+| Provision | 2025 Amount |
+|-----------|-------------|
+| Estate/Gift/GST Exemption | ~$13,990,000 |
+| Annual Gift Exclusion | $19,000 |
+| 401(k) Contribution | $23,500 |
+| IRA Contribution | $7,000 |
+| Social Security Wage Base | $176,100 |
+| Section 179 Limit | $1,250,000 |
+| SALT Deduction Cap | $10,000 |
+| QBI Deduction | 20% (199A) |
+
+### Key Tax Rates (2025)
+
+| Rate Type | Rate |
+|-----------|------|
+| Top Individual Rate | 37% |
+| Corporate Rate | 21% |
+| Long-Term Capital Gains (max) | 20% |
+| NIIT | 3.8% |
+| Estate Tax | 40% |
+| GST Tax | 40% |
+| Self-Employment Tax | 15.3% |
+
+---
+
+## Important Disclaimer
+
 THIS GUIDE IS FOR INFORMATIONAL AND EDUCATIONAL PURPOSES ONLY.
 
-The information contained in this guide, including all tutorials, templates, examples, charts of accounts, checklists, and reference materials, is provided "as is" without warranty of any kind, express or implied. This guide does not constitute professional accounting, tax, legal, or financial advice.
+The information contained in this guide, including all tutorials, templates, examples, charts of accounts, checklists, and reference materials, is provided "as is" without warranty of any kind, express or implied. This guide does not constitute professional accounting, tax, legal, or financial advice. Tax laws change frequently, and strategies should be implemented only after consultation with qualified professionals who can assess individual circumstances. All strategies should be evaluated for economic substance, business purpose, and compliance with applicable regulations.
 
 Please Note:
-Not Professional Advice: This guide is not a substitute for professional accounting, tax, or legal counsel. Every business situation is unique, and the information provided here may not be appropriate for your specific circumstances.
 
-No CPA-Client Relationship: Reading, using, or relying on this guide does not create a CPA-client, attorney-client, or any other professional relationship between you and the author(s) or publisher(s) of this content.
+**Not Professional Advice:** This guide is not a substitute for professional accounting, tax, or legal counsel. Every business situation is unique, and the information provided here may not be appropriate for your specific circumstances.
 
-Verify with Professionals: Before implementing any accounting methods, chart of accounts structures, job costing procedures, WIP schedules, or other financial practices described in this guide, you should consult with a qualified Certified Public Accountant (CPA), tax professional, or attorney who is familiar with your specific business situation and applicable laws.
+**No CPA-Client Relationship:** Reading, using, or relying on this guide does not create a CPA-client, attorney-client, or any other professional relationship between you and the author(s) or publisher(s) of this content.
 
-Accuracy Not Guaranteed: While every effort has been made to ensure the accuracy and completeness of the information in this guide, accounting standards (GAAP), tax laws, and software features change frequently. The author(s) make no guarantees that the information is current, complete, or error-free.
+**Verify with Professionals:** Before implementing any accounting methods, chart of accounts structures, job costing procedures, WIP schedules, or other financial practices described in this guide, you should consult with a qualified Certified Public Accountant (CPA), tax professional, or attorney who is familiar with your specific business situation and applicable laws.
 
-Limitation of Liability: In no event shall the author(s), publisher(s), or contributors be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising out of or related to your use of or reliance on this guide.
+**Accuracy Not Guaranteed:** While every effort has been made to ensure the accuracy and completeness of the information in this guide, accounting standards (GAAP), tax laws, and software features change frequently. The author(s) make no guarantees that the information is current, complete, or error-free.
 
-Your Responsibility: You are solely responsible for determining whether the information in this guide is appropriate for your situation and for any actions you take based on this information.
+**Limitation of Liability:** In no event shall the author(s), publisher(s), or contributors be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising out of or related to your use of or reliance on this guide.
+
+**Your Responsibility:** You are solely responsible for determining whether the information in this guide is appropriate for your situation and for any actions you take based on this information.
 
 BY USING THIS GUIDE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO THIS DISCLAIMER.
+
+---
+
+*Last Updated: 2025*
+*Total Strategies: 75+*
+*Categories: 15*
+*Critical Planning Window: Now Through December 31, 2025*
