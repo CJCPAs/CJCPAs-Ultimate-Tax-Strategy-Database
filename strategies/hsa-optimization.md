@@ -156,7 +156,7 @@ Instead of using HSA funds for current medical expenses, pay out-of-pocket and l
 | 10 | $30,000 | $120,000 | $8,400 |
 | 20 | $60,000 | $380,000 | $26,600 |
 
-At year 20: Withdraw $60,000 tax-free (accumulated receipts) + continue growth
+At year 20: Withdraw $60,000 tax-free (matching accumulated receipts) while remaining HSA balance continues to grow tax-free for future medical expenses or penalty-free distributions after age 65
 
 ## Medicare Transition Planning
 

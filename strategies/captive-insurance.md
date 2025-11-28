@@ -204,8 +204,8 @@ A captive insurance company is a licensed insurance company owned by a business 
 
 ### Aviva and Micro-Captive Cases
 - Multiple Tax Court cases against abusive structures
-- "Listed transaction" for certain arrangements
-- Penalties for reportable transactions
+- Micro-captive arrangements are listed transactions under Notice 2016-66
+- Penalties for reportable transactions (Form 8886 required)
 - Heightened disclosure requirements
 
 ### Red Flags That Attract Audit

@@ -25,7 +25,7 @@ Conservation easements allow landowners to donate development rights on qualifyi
 - Investors purchase land through partnership
 - Easement donated shortly after purchase
 - Deduction claimed significantly exceeds investment
-- **HIGH IRS AUDIT RISK** - Listed Transaction
+- **HIGH IRS AUDIT RISK** - Listed Transaction (Notice 2017-10)
 
 ## Requirements
 
