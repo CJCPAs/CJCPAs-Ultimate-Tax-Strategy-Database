@@ -16,22 +16,38 @@ Health Savings Accounts (HSAs) offer a unique triple tax advantage: tax-deductib
 - Portable—belongs to individual, not employer
 - Can be used as retirement account after age 65
 
-## 2024 Contribution Limits
+## 2026 Contribution Limits (Projected)
 
 | Coverage Type | Under 55 | Age 55+ (Catch-up) |
 |--------------|----------|-------------------|
-| Self-only | $4,150 | $5,150 |
-| Family | $8,300 | $9,300 |
+| Self-only | $4,300 | $5,300 |
+| Family | $8,550 | $9,550 |
+
+*Projected amounts based on inflation indexing. Final amounts announced by IRS annually.*
 
 ## Requirements
 
 ### High Deductible Health Plan (HDHP)
 
-**2024 HDHP Requirements:**
+**2026 HDHP Requirements (Projected):**
 | Parameter | Self-only | Family |
 |-----------|----------|--------|
-| Minimum deductible | $1,600 | $3,200 |
-| Maximum out-of-pocket | $8,050 | $16,100 |
+| Minimum deductible | $1,650 | $3,300 |
+| Maximum out-of-pocket | $8,300 | $16,600 |
+
+*Projected amounts based on inflation indexing. Final amounts announced by IRS annually.*
+
+## Effective Dates
+
+| Provision | Effective Date | Status |
+|-----------|---------------|--------|
+| Health Savings Accounts | Medicare Prescription Drug Act 2003 | Permanent |
+| HSA Eligibility Rules | January 1, 2004 | Permanent |
+| Contribution Limits | Indexed annually | See 2026 projections above |
+| Catch-up Contributions (55+) | 2004 | Permanent at $1,000 additional |
+| Expanded OTC Coverage | CARES Act March 2020 | Permanent |
+
+**2026 Tax Year**: HSAs remain one of the most tax-advantaged savings vehicles available. Contribution limits are indexed for inflation. The strategy of using HSA as a "stealth IRA" (paying medical expenses out-of-pocket while letting HSA funds grow tax-free for decades, then reimbursing yourself later—see "HSA as Stealth IRA Strategy" section below) remains highly effective.
 
 ### Eligibility Requirements
 - Covered by HDHP on 1st of month
@@ -287,4 +303,4 @@ The Johnson family (2 adults, both age 45) has $8,300 to allocate to healthcare 
 
 ---
 
-*Last Updated: 2025*
+*Last Updated: 11.27.25*

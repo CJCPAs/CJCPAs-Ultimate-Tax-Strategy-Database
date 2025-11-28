@@ -1,5 +1,9 @@
 # CJCPAs Ultimate Tax Strategy Database
 
+**Document Date: 11.27.25**
+
+*This database has been updated with effective dates and 2026 tax year applicability information.*
+
 ## Overview
 
 This comprehensive encyclopedia provides detailed documentation of tax planning strategies for CPAs, tax professionals, and financial advisors. Each strategy includes requirements, risks, client fit criteria, and implementation steps.

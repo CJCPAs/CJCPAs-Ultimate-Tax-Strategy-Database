@@ -317,9 +317,25 @@ The Wilson Family owns 500 acres of farmland held for 25 years. Property include
 - [Exit Planning](exit-planning.md)
 - [Real Estate Professional Status](real-estate-professional-status.md)
 
+## Effective Dates
+
+| Provision | Effective Date | Status |
+|-----------|---------------|--------|
+| IRC Section 170(h) Conservation Contributions | 1980 | Permanent |
+| Enhanced Deduction for Farmers/Ranchers | Pension Protection Act 2006 | Permanent |
+| 60% AGI Limit (General) | 2018 (TCJA) | Scheduled to revert after 2025 |
+| 100% AGI Limit (Qualified Farmers) | 2006 | Permanent |
+| Notice 2017-10 (Listed Transaction) | January 1, 2017 | Active |
+
+**2026 Tax Year**:
+- Traditional conservation easements remain fully available for 2026.
+- Syndicated conservation easement transactions continue to be listed transactions under Notice 2017-10.
+- The charitable deduction AGI limit may change if TCJA provisions expire; monitor legislative updates.
+- IRS continues aggressive enforcement against abusive syndicated transactions.
+
 ---
 
-*Last Updated: 2025*
+*Last Updated: 11.27.25*
 
 ## Important Warning
 

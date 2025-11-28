@@ -313,6 +313,21 @@ Manufacturing company with $50 million revenue, 15 engineers developing improved
 - [IC-DISC](ic-disc.md)
 - [199A Maximization](199a-maximization.md)
 
+## Effective Dates
+
+| Provision | Effective Date | Status |
+|-----------|---------------|--------|
+| R&D Tax Credit | Economic Recovery Tax Act 1981 | Made permanent December 18, 2015 (PATH Act) |
+| Alternative Simplified Credit | 2007 | Permanent |
+| Payroll Tax Offset (Startups) | January 1, 2016 (PATH Act) | Permanent - Up to $500,000 annually |
+| Section 174 Capitalization | January 1, 2022 | Active - 5-year amortization domestic / 15-year foreign |
+
+**2026 Tax Year Considerations**:
+- R&D tax credit remains fully available and is now a permanent part of the tax code.
+- **Important**: Section 174 requires capitalization and amortization of R&D expenses (5 years domestic, 15 years foreign) starting in 2022. This reduces the immediate deduction but credit remains available.
+- Startup payroll tax offset of up to $500,000 continues for qualified small businesses.
+- State R&D credits vary; check state conformity.
+
 ---
 
-*Last Updated: 2025*
+*Last Updated: 11.27.25*
