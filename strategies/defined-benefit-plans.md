@@ -7,7 +7,7 @@ Defined Benefit (DB) plans allow substantially higher tax-deductible contributio
 ## Key Benefits
 
 - Contributions of $200,000-$350,000+ annually possible
-- Maximum benefit: $275,000/year at retirement (2024)
+- Maximum benefit: $290,000/year at retirement (2026 projected, indexed for inflation)
 - Larger deductions than any other qualified plan
 - Tax-deferred growth on substantial amounts
 - Creditor protection under ERISA
@@ -17,10 +17,23 @@ Defined Benefit (DB) plans allow substantially higher tax-deductible contributio
 
 | Plan Type | Max Annual Contribution | Best Age Group |
 |-----------|------------------------|----------------|
-| Traditional 401(k) | $23,000 ($30,500 if 50+) | All ages |
-| Solo 401(k) | $69,000 ($76,500 if 50+) | All ages |
-| SEP IRA | $69,000 | All ages |
+| Traditional 401(k) | $23,500 ($31,000 if 50+) (2026 projected) | All ages |
+| Solo 401(k) | $70,000 ($77,500 if 50+) (2026 projected) | All ages |
+| SEP IRA | $70,000 (2026 projected) | All ages |
 | Defined Benefit | $200,000-$350,000+ | 50+ years old |
+
+*Note: 2026 contribution limits are projections based on inflation indexing. Final limits announced by IRS.*
+
+## Effective Dates
+
+| Provision | Effective Date | Status |
+|-----------|---------------|--------|
+| Defined Benefit Plans | ERISA 1974 | Permanent |
+| Cash Balance Plans | IRS Final Regulations 2014 | Permanent |
+| Section 415(b) Benefit Limits | Indexed annually | $275,000 for 2024; projected ~$290,000 for 2026 |
+| Catch-up Contributions | EGTRRA 2001 | Permanent |
+
+**2026 Tax Year**: Defined benefit plans remain one of the most powerful tax deferral strategies for high-income business owners age 50+. The maximum annual benefit limit is indexed for inflation and projected to be approximately $290,000 for 2026.
 
 ## Plan Types
 
@@ -279,4 +292,4 @@ Dr. Smith, age 58, owns dental practice. Income: $500,000.
 
 ---
 
-*Last Updated: 2025*
+*Last Updated: 11.27.25*

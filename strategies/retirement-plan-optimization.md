@@ -14,15 +14,33 @@ Retirement plan optimization involves selecting and maximizing contributions to 
 
 ## Plan Types Comparison
 
-| Plan Type | 2024 Max Contribution | Employer Match | Best For |
+| Plan Type | 2026 Max Contribution (Projected) | Employer Match | Best For |
 |-----------|----------------------|----------------|----------|
-| Traditional 401(k) | $23,000 ($30,500 if 50+) | Up to 25% of comp | W-2 employees |
-| Solo 401(k) | $69,000 ($76,500 if 50+) | Self-funded | Self-employed |
-| SEP IRA | $69,000 | Employer only | Small business owners |
-| SIMPLE IRA | $16,000 ($19,500 if 50+) | Required | Small employers |
+| Traditional 401(k) | $23,500 ($31,000 if 50+) | Up to 25% of comp | W-2 employees |
+| Solo 401(k) | $70,000 ($77,500 if 50+) | Self-funded | Self-employed |
+| SEP IRA | $70,000 | Employer only | Small business owners |
+| SIMPLE IRA | $16,500 ($20,000 if 50+) | Required | Small employers |
 | Traditional IRA | $7,000 ($8,000 if 50+) | N/A | Supplement to employer plans |
-| Defined Benefit | Up to $275,000/year | Employer funded | High earners 50+ |
+| Defined Benefit | Up to $290,000/year | Employer funded | High earners 50+ |
 | Cash Balance | Varies | Employer funded | Professionals with employees |
+
+*Projected 2026 limits based on inflation indexing. Final amounts announced by IRS.*
+
+## Effective Dates
+
+| Provision | Effective Date | Status |
+|-----------|---------------|--------|
+| 401(k) Plans | Revenue Act 1978 | Permanent |
+| SEP IRA | Employee Retirement Income Security Act 1974 | Permanent |
+| SIMPLE IRA | Small Business Job Protection Act 1996 | Permanent |
+| Roth 401(k) | Economic Growth and Tax Relief Act 2001 | Permanent |
+| Catch-up Contributions | EGTRRA 2001 | Permanent |
+| SECURE Act Changes | January 1, 2020 | Active |
+| SECURE 2.0 Changes | Various dates 2023-2025 | Rolling implementation |
+| RMD Age 73 | January 1, 2023 | Active |
+| RMD Age 75 | January 1, 2033 | Scheduled |
+
+**2026 Tax Year**: All retirement plan types remain fully available for 2026 with inflation-indexed contribution limits. Key SECURE 2.0 provisions becoming effective include enhanced catch-up contribution rules and expanded automatic enrollment requirements for new plans.
 
 ## Requirements
 
@@ -219,4 +237,4 @@ Dr. Smith, age 55, owns a dental practice. Net income: $400,000. One hygienist e
 
 ---
 
-*Last Updated: 2025*
+*Last Updated: 11.27.25*

@@ -256,6 +256,15 @@ Dr. Johnson owns a medical practice (S Corp) and has a home valued at $2 million
 - [Hire Your Kids](hire-your-kids.md)
 - [199A Maximization](199a-maximization.md)
 
+## Effective Dates
+
+| Provision | Effective Date | Status |
+|-----------|---------------|--------|
+| Section 280A(g) 14-Day Rule | Long-standing provision | Permanent - No expiration |
+| Rental Income Exclusion | Enacted 1976 | Active for 2026 tax year |
+
+**2026 Planning Note**: This strategy remains fully available for the 2026 tax year. No legislative changes are pending that would affect this provision.
+
 ---
 
-*Last Updated: 2025*
+*Last Updated: 11.27.25*
