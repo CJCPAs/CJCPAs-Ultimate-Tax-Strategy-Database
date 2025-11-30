@@ -14,8 +14,6 @@ An installment sale allows taxpayers to defer recognition of capital gains by re
 | Depreciation Recapture | Recognized in year of sale | No change expected |
 | Related Party Rules | 2-year rule | No change expected |
 
-**2026 Planning Note:** If ordinary income tax rates increase after TCJA sunset, installment sales become more valuable for ordinary income deferral (e.g., depreciation recapture on personal property).
-
 ## Key Benefits
 
 - Spread gain recognition over multiple years
@@ -463,5 +461,5 @@ James, age 62, sells his manufacturing business:
 
 ---
 
-*Last Updated: 2025*
+*Last Updated: November 2025 (Post-OBBBA)*
 *File Form 6252 Annually for All Installment Sales*

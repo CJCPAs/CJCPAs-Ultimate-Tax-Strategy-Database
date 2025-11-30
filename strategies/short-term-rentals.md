@@ -8,13 +8,13 @@ Short-term rentals (STRs) such as Airbnb, VRBO, and vacation rentals offer uniqu
 
 | Provision | 2024 | 2025 | 2026 and Beyond |
 |-----------|------|------|-----------------|
-| Bonus Depreciation | 60% | 40% | 20% (2026), 0% (2027+) |
+| Bonus Depreciation | 60% | 100% (Post-OBBBA) | 100% (Permanent) |
 | Section 199A QBI | Available | Available | Scheduled to expire |
 | Self-Employment Tax | Net earnings from self-employment | Same | Same |
 | Material Participation | 7 tests | 7 tests | No change expected |
 | Average Rental Period | <7 days = business | Same | No change expected |
 
-**2026 Planning Alert:** Bonus depreciation phase-out significantly impacts cost segregation benefits. Act in 2024-2025 for maximum first-year deductions.
+**OBBBA Update (July 2025):** Bonus depreciation restored to 100% permanently for property placed in service after January 20, 2025. This makes cost segregation studies even more valuable for maximizing first-year deductions.
 
 ## Key Tax Classifications
 
@@ -197,7 +197,7 @@ Must provide substantial services similar to hotel:
 | Land improvements (15-year) | 15 years | 5-10% |
 | Personal property (5/7-year) | 5-7 years | 20-35% |
 
-**2025 Bonus Depreciation:** 40% on 5, 7, 15-year property
+**Bonus Depreciation (Post-OBBBA):** 100% on 5, 7, 15-year property placed in service after January 20, 2025
 
 ### Phase 4: Operations & Documentation
 
@@ -245,33 +245,33 @@ Must provide substantial services similar to hotel:
 | Building/Improvements | $640,000 |
 
 **Cost Segregation Results:**
-| Component | Amount | Bonus (40%) | Year 1 Deduction |
+| Component | Amount | Bonus (100%) | Year 1 Deduction |
 |-----------|--------|-------------|------------------|
-| 5-year property | $120,000 | $48,000 | $48,000 |
-| 7-year property | $80,000 | $32,000 | $32,000 |
-| 15-year property | $50,000 | $20,000 | $20,000 |
+| 5-year property | $120,000 | $120,000 | $120,000 |
+| 7-year property | $80,000 | $80,000 | $80,000 |
+| 15-year property | $50,000 | $50,000 | $50,000 |
 | 39-year (building) | $390,000 | N/A | $10,000 |
-| **Total Year 1** | | | **$110,000** |
+| **Total Year 1** | | | **$260,000** |
 
 **Operating Results:**
 | Item | Amount |
 |------|--------|
 | Rental Income | $60,000 |
 | Operating Expenses | ($35,000) |
-| Depreciation | ($110,000) |
-| **Net Loss** | **($85,000)** |
+| Depreciation | ($260,000) |
+| **Net Loss** | **($235,000)** |
 
 **Tax Impact (if material participation met):**
 - Loss offsets W-2 income
-- Tax savings: $85,000 × 37% = **$31,450**
+- Tax savings: $235,000 × 37% = **$86,950**
 - Plus state tax savings if applicable
 
 ### Comparison: STR vs. Traditional Rental
 
 | Metric | Traditional Rental | STR (Material Part.) |
 |--------|-------------------|---------------------|
-| $85,000 loss | Passive (suspended) | **Active (deductible)** |
-| Tax savings Year 1 | $0 | $31,450+ |
+| $235,000 loss | Passive (suspended) | **Active (deductible)** |
+| Tax savings Year 1 | $0 | $86,950+ |
 | Cash flow impact | Wait for passive income | Immediate benefit |
 
 ## Self-Employment Tax Considerations
@@ -350,14 +350,14 @@ David, an attorney earning $450,000 W-2, purchases:
 - 39-year property: $340,000
 - Land: $150,000
 
-**2025 Bonus Depreciation (40%):**
+**Bonus Depreciation (100% Post-OBBBA):**
 | Component | Amount | Bonus |
 |-----------|--------|-------|
-| 5-year | $100,000 | $40,000 |
-| 7-year | $70,000 | $28,000 |
-| 15-year | $40,000 | $16,000 |
+| 5-year | $100,000 | $100,000 |
+| 7-year | $70,000 | $70,000 |
+| 15-year | $40,000 | $40,000 |
 | Regular depreciation | | $12,000 |
-| **Total** | | **$96,000** |
+| **Total** | | **$222,000** |
 
 **Operating Results:**
 | Item | Amount |
@@ -367,8 +367,8 @@ David, an attorney earning $450,000 W-2, purchases:
 | Mortgage interest | ($25,000) |
 | Property taxes | ($8,000) |
 | Insurance | ($4,000) |
-| Depreciation | ($96,000) |
-| **Net Loss** | **($117,000)** |
+| Depreciation | ($222,000) |
+| **Net Loss** | **($243,000)** |
 
 **Material Participation:**
 - Guest communication: 100 hours
@@ -382,10 +382,10 @@ David, an attorney earning $450,000 W-2, purchases:
 - 90 nights ÷ 20 rentals = **4.5 days** ✓
 
 **Tax Result:**
-- $117,000 loss offsets W-2 income
-- Federal tax savings: ~$43,000
-- State tax savings (if applicable): ~$12,000
-- **Total Year 1 Benefit: ~$55,000**
+- $243,000 loss offsets W-2 income
+- Federal tax savings: ~$90,000
+- State tax savings (if applicable): ~$25,000
+- **Total Year 1 Benefit: ~$115,000**
 
 ## Key Tax Code References
 
@@ -407,5 +407,4 @@ David, an attorney earning $450,000 W-2, purchases:
 
 ---
 
-*Last Updated: 2025*
-*Act Before Bonus Depreciation Phases Out in 2027*
+*Last Updated: November 2025 (Post-OBBBA)*

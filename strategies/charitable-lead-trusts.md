@@ -2,20 +2,20 @@
 
 ## Overview
 
-A Charitable Lead Trust (CLT) is an irrevocable trust that provides income payments to one or more charities for a specified term, after which the remaining assets pass to non-charitable beneficiaries (typically family members). CLTs are powerful estate and gift tax planning tools that allow donors to transfer wealth to heirs at reduced transfer tax cost while supporting charitable causes. With the TCJA sunset approaching in 2026, CLTs become even more valuable for leveraging the current high exemption amounts.
+A Charitable Lead Trust (CLT) is an irrevocable trust that provides income payments to one or more charities for a specified term, after which the remaining assets pass to non-charitable beneficiaries (typically family members). CLTs are powerful estate and gift tax planning tools that allow donors to transfer wealth to heirs at reduced transfer tax cost while supporting charitable causes. Under the OBBBA (One Big Beautiful Bill Act) signed July 4, 2025, the estate and gift tax exemption is now permanently set at $15M per person ($30M for married couples), making CLTs valuable tools for wealth transfer while supporting charitable objectives.
 
 ## Effective Dates & Key Law Changes
 
-| Provision | 2024-2025 | 2026 and Beyond |
+| Provision | Pre-OBBBA (2024-2025) | Post-OBBBA (2025+) |
 |-----------|-----------|-----------------|
-| Estate/Gift Tax Exemption | $13.61M (2024) / ~$13.99M (2025) | ~$7M (indexed) - TCJA Sunset |
+| Estate/Gift Tax Exemption | $13.61M (2024) / ~$13.99M (2025) | **$15M (permanent)** |
 | Estate/Gift Tax Rate | 40% | 40% |
 | Section 7520 Rate | ~5.0% (variable monthly) | Variable |
 | Charitable Deduction | Available | Available |
-| GST Exemption | Same as estate | Same (~$7M in 2026) |
-| Income Tax Rates | Current brackets | Higher brackets expected |
+| GST Exemption | Same as estate | **$15M (permanent)** |
+| Income Tax Rates | TCJA brackets | TCJA brackets (permanent) |
 
-**2026 Planning Alert:** CLTs become MORE attractive after the exemption drops. A "zeroed-out" CLAT can transfer significant wealth with zero gift tax, making it valuable regardless of exemption level.
+**OBBBA Update (Effective July 4, 2025):** The permanent $15M exemption provides planning certainty. A "zeroed-out" CLAT remains highly valuable as it can transfer significant wealth with zero gift tax regardless of exemption level, making it particularly attractive for those who have already exhausted their exemptions or prefer not to use them.
 
 ## Types of Charitable Lead Trusts
 
@@ -415,5 +415,5 @@ The Hendersons:
 
 ---
 
-*Last Updated: 2025*
+*Last Updated: November 2025 (Post-OBBBA)*
 *Zeroed-Out CLATs Work Regardless of Exemption Level*

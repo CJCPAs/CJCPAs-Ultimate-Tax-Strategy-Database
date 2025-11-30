@@ -129,16 +129,10 @@ Cost segregation is an IRS-approved tax strategy that accelerates depreciation d
 
 ## Bonus Depreciation Integration
 
-### Current Bonus Depreciation Rates
-| Year Placed in Service | Bonus Depreciation % |
-|------------------------|---------------------|
-| 2023 | 80% |
-| 2024 | 60% |
-| 2025 | 40% |
-| 2026 | 20% |
-| 2027+ | 0% |
+### Current Bonus Depreciation Rate
+**100% Bonus Depreciation - Permanent**
 
-*Note: Congress may extend or restore bonus depreciation. Monitor legislative developments.*
+The OBBBA (One Big Beautiful Bill Act), signed July 4, 2025, permanently restored 100% bonus depreciation for qualified property placed in service after January 20, 2025. This makes cost segregation even more powerful by allowing immediate expensing of all reclassified short-lived assets.
 
 ## Effective Dates
 
@@ -146,23 +140,22 @@ Cost segregation is an IRS-approved tax strategy that accelerates depreciation d
 |-----------|---------------|--------|
 | Cost Segregation (IRS-Approved) | 1997 (Hospital Corporation of America decision) | Permanent |
 | MACRS Depreciation | 1986 (Tax Reform Act) | Permanent |
-| Bonus Depreciation Phase-out | Began 2023 | 20% for 2026 |
+| 100% Bonus Depreciation (OBBBA) | January 20, 2025 | Permanent |
 | Look-back Studies (Form 3115) | Long-standing | Active for 2026 |
 | IRS Cost Segregation Audit Technique Guide | Updated 2022 | Current guidance |
 
-**2026 Tax Year**: Cost segregation remains highly valuable for 2026, though the benefit is reduced due to 20% bonus depreciation rate. Consider:
-- Accelerating purchases to 2025 for 40% bonus
-- Look-back studies on properties acquired in prior years to capture higher bonus rates
-- Standard MACRS depreciation still provides significant acceleration without bonus
+**2026 Tax Year**: Cost segregation is extremely valuable for 2026 with permanent 100% bonus depreciation. Consider:
+- Immediate expensing of all reclassified short-lived assets
+- Look-back studies on properties acquired in prior years to capture missed depreciation
+- Maximum first-year deductions available for qualifying property
 
 ### Calculation Example
-$2,000,000 commercial building purchased in 2024:
+$2,000,000 commercial building purchased in 2026:
 - 25% reclassified as 5/7/15-year property = $500,000
-- Bonus depreciation at 60% = $300,000
-- Regular depreciation on remaining $200,000
+- Bonus depreciation at 100% = $500,000
 - Remaining $1,500,000 depreciated over 39 years
 
-**First-year depreciation**: ~$340,000 vs. ~$51,000 without segregation
+**First-year depreciation**: ~$538,500 vs. ~$51,000 without segregation
 
 ## Risks & Considerations
 
@@ -198,7 +191,7 @@ $2,000,000 commercial building purchased in 2024:
 ## Case Study
 
 ### Scenario
-Investor purchases $3,000,000 apartment complex in 2024. Marginal tax rate: 37%.
+Investor purchases $3,000,000 apartment complex in 2026. Marginal tax rate: 37%.
 
 ### Without Cost Segregation
 - Annual depreciation: $3,000,000 ÷ 27.5 = $109,091
@@ -206,16 +199,15 @@ Investor purchases $3,000,000 apartment complex in 2024. Marginal tax rate: 37%.
 
 ### With Cost Segregation
 - Engineering study identifies 30% as short-lived property: $900,000
-- Bonus depreciation (60%): $540,000
-- Regular depreciation on segregated property: ~$36,000
+- Bonus depreciation (100%): $900,000
 - Standard depreciation on $2,100,000: $76,364
-- **Total first-year depreciation: $652,364**
-- **First-year tax savings: $241,375**
+- **Total first-year depreciation: $976,364**
+- **First-year tax savings: $361,255**
 
 ### Net Benefit
-- Additional first-year savings: $201,011
+- Additional first-year savings: $320,891
 - Study cost: ~$8,000
-- **Net benefit: $193,011**
+- **Net benefit: $312,891**
 
 ## Look-Back Study Strategy
 
@@ -256,4 +248,4 @@ For properties acquired in prior years:
 
 ---
 
-*Last Updated: 11.27.25*
+*Last Updated: November 2025 (Post-OBBBA)*

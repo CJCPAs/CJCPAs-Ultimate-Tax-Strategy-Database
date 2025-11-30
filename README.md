@@ -252,6 +252,43 @@ BY USING THIS GUIDE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE T
 
 This section documents all significant updates to the tax strategy database for transparency and version tracking.
 
+### November 30, 2025 - Comprehensive OBBBA Sweep (All Strategy Files)
+
+**Complete database review and update for OBBBA compliance:**
+
+Following community feedback, conducted comprehensive review of ALL 85+ strategy files to ensure OBBBA provisions are correctly reflected throughout the entire database.
+
+**Estate Planning Files Updated:**
+- `strategies/qprts.md` - $15M permanent exemption, removed 2026 urgency
+- `strategies/dynasty-trusts.md` - $15M GST exemption permanent, updated case study
+- `strategies/gstt-planning.md` - Removed "CRITICAL 2026 ALERT", $15M permanent
+- `strategies/portability-elections.md` - $15M permanent, updated examples
+- `strategies/charitable-lead-trusts.md` - $15M permanent exemption
+- `strategies/split-dollar-life-insurance.md` - $15M permanent exemption
+
+**Business Strategy Files Updated:**
+- `strategies/s-corp-reasonable-compensation.md` - 199A now 23% permanent
+- `strategies/short-term-rentals.md` - 100% bonus depreciation permanent
+- `strategies/cost-segregation.md` - 100% bonus depreciation permanent
+- `strategies/asset-vs-stock-sales.md` - 37% rate permanent, 100% bonus
+- `strategies/real-estate-professional-status.md` - 199A permanent at 23%
+- `strategies/exit-planning.md` - 199A permanent at 23%
+
+**Other Files Updated:**
+- `strategies/gilti-planning.md` - Section 250 deduction remains 50% permanent
+- `strategies/charitable-strategies.md` - Standard deduction permanent
+- `strategies/amt-planning.md` - $40K SALT cap with phase-outs
+- `strategies/installment-sales.md` - Removed TCJA sunset reference
+- `strategies/conservation-easements.md` - 60% AGI limit permanent
+
+**Key Changes Across All Files:**
+- Removed all "expires 12/31/2025" and "2026 sunset" language
+- Updated estate exemption from ~$7M to $15M permanent
+- Updated 199A from 20% expiring to 23% permanent
+- Updated bonus depreciation from phasing out to 100% permanent
+- Updated SALT cap from $10K to $40K with phase-out rules
+- Updated all footers to "November 2025 (Post-OBBBA)"
+
 ### November 30, 2025 - Corrections Based on Community Feedback
 
 **Corrections Made:**

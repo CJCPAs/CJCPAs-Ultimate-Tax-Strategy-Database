@@ -6,14 +6,14 @@ The Generation-Skipping Transfer Tax (GSTT or GST tax) is a federal tax imposed 
 
 ## Effective Dates & Key Law Changes
 
-| Provision | 2024 | 2025 | 2026 and Beyond |
-|-----------|------|------|-----------------|
-| GST Exemption | $13,610,000 | ~$13,990,000 | ~$7,000,000 (TCJA Sunset) |
+| Provision | 2024 | 2025 (Pre-OBBBA) | 2025 (Post-OBBBA) and Beyond |
+|-----------|------|------------------|------------------------------|
+| GST Exemption | $13,610,000 | ~$13,990,000 | $15,000,000 (permanent) |
 | GST Tax Rate | 40% | 40% | 40% |
 | Annual Exclusion (GST) | $18,000 | $19,000 | ~$19,000 (indexed) |
 | Exemption Portability | None | None | None (GST not portable) |
 
-**CRITICAL 2026 ALERT:** Unlike the estate tax exemption, **GST exemption is NOT portable between spouses**. Each spouse must use their own exemption or lose it at death. The 2026 sunset makes immediate planning essential.
+**OBBBA Update (July 4, 2025):** The One Big Beautiful Bill Act permanently set the GST exemption at $15,000,000 per person. Unlike the estate tax exemption, **GST exemption is NOT portable between spouses**. Each spouse must use their own exemption or lose it at death.
 
 ## Key Concepts
 
@@ -157,30 +157,22 @@ Inclusion Ratio = 1 - (GST Exemption Allocated / Value of Transfer)
 | Pre-deceased child with grandchildren | High |
 | Charitable planning to skip persons | Moderate |
 
-### 2025-2026 Planning Urgency
+### GST Planning Importance
 
-**Must Act Before December 31, 2025:**
-
-| Current Exemption | 2026 Exemption | Lost Opportunity |
-|-------------------|----------------|------------------|
-| $13,990,000 | ~$7,000,000 | ~$6,990,000 |
-| Per couple: $27,980,000 | ~$14,000,000 | ~$13,980,000 |
-
-**Impact of Lost Exemption:**
-$13,980,000 × 40% GST = **$5,592,000 in additional GST tax**
+With a permanent $15,000,000 GST exemption per person under OBBBA, strategic planning remains essential. While there is no longer sunset urgency, maximizing the exemption's effectiveness through proper allocation and trust structuring can protect wealth for multiple generations.
 
 ## Planning Strategies
 
-### Strategy 1: Use Full Exemption Before 2026
+### Strategy 1: Maximize GST Exemption Usage
 
 **Action Plan:**
 1. Calculate available GST exemption
 2. Identify assets for skip-person transfers
-3. Create GST-exempt trust(s) in 2025
+3. Create GST-exempt trust(s)
 4. Fund with full exemption amount
 5. Properly allocate on Form 709
 
-**Result:** $13.99M+ permanently GST-exempt
+**Result:** $15M per person permanently GST-exempt
 
 ### Strategy 2: Leverage Discounted Assets
 
@@ -278,25 +270,24 @@ William and Elizabeth, both 68 in 2025:
 
 ### Current GST Exposure (Without Planning)
 
-**If transfers at death in 2030 (post-sunset):**
+**If transfers at death without proper allocation:**
 - Estate to grandchildren trust: $10,000,000
-- GST exemption (2030, est.): $7,500,000
-- Taxable GST amount: $2,500,000
-- GST tax: $1,000,000
+- GST exemption used at death: Suboptimal allocation
+- Potential GST tax on future distributions: Up to $4,000,000
 
-### Pre-2026 GST Planning
+### Strategic GST Planning
 
 **Action Plan:**
 
-1. **Each spouse creates GST-exempt trust (2025):**
-   - William: $13,990,000 to dynasty trust
-   - Elizabeth: $13,990,000 to dynasty trust
-   - Total GST-exempt: $27,980,000
+1. **Each spouse creates GST-exempt trust:**
+   - William: $15,000,000 to dynasty trust
+   - Elizabeth: $15,000,000 to dynasty trust
+   - Total GST-exempt: $30,000,000
 
 2. **Asset selection (with discounts):**
    - FLP interests at 30% discount
-   - Actual value transferred: ~$40,000,000
-   - GST exemption used: $27,980,000
+   - Actual value transferred: ~$43,000,000
+   - GST exemption used: $30,000,000
 
 3. **Allocation:**
    - File Form 709 for each spouse
@@ -307,18 +298,18 @@ William and Elizabeth, both 68 in 2025:
 
 **After 30 years (6% growth):**
 
-| Metric | Without 2025 Planning | With 2025 Planning |
-|--------|----------------------|-------------------|
-| Trust value | N/A | $229,000,000 |
-| GST-exempt | $7,500,000 | $229,000,000 |
+| Metric | Without Planning | With Strategic Planning |
+|--------|------------------|------------------------|
+| Trust value | N/A | $247,000,000 |
+| GST-exempt | Partial | $247,000,000 |
 | GST tax on distribution | Variable | $0 |
 | Estate tax at each gen | 40% | 0% (in trust) |
 
 **Multi-Generational Savings:** $50,000,000+ in GST taxes avoided
 
-## GST Planning Checklist (Pre-2026)
+## GST Planning Checklist
 
-### Immediate Actions
+### Initial Assessment
 
 - [ ] Calculate current estate value
 - [ ] Determine available GST exemption (each spouse)
@@ -327,16 +318,16 @@ William and Elizabeth, both 68 in 2025:
 - [ ] Select dynasty trust state
 - [ ] Engage estate planning attorney
 
-### Before December 31, 2025
+### Implementation
 
 - [ ] Create GST-exempt trust(s)
 - [ ] Fund with full exemption amount
 - [ ] Obtain appraisals for discounted assets
-- [ ] File Form 709 for 2025 transfers
+- [ ] File Form 709 for transfers
 - [ ] Affirmatively allocate GST exemption
 - [ ] Document inclusion ratio of 0.00
 
-### Ongoing
+### Ongoing Maintenance
 
 - [ ] Annual review of GST allocations
 - [ ] Monitor for GST taxable events
@@ -368,5 +359,4 @@ William and Elizabeth, both 68 in 2025:
 
 ---
 
-*Last Updated: 2025*
-*Critical Planning Window: Now Through December 31, 2025*
+*Last Updated: November 2025 (Post-OBBBA)*
