@@ -129,22 +129,34 @@ Entity structuring involves selecting and organizing the optimal legal business 
 ## Case Study
 
 ### Scenario
-Sarah operates a consulting business as a sole proprietor with $200,000 net income.
+Sarah operates a consulting business as a sole proprietor with $200,000 net income. She's in the 32% marginal tax bracket.
 
-### Current Situation
+### Current Situation (Sole Proprietor)
 - Self-employment tax: $200,000 × 15.3% × 92.35% = $28,261
-- Total SE tax burden: $28,261
+- Section 199A QBI deduction (23%): $200,000 × 23% = $46,000
+- Tax savings from 199A: $46,000 × 32% = $14,720
+- **Net SE tax after 199A benefit: $28,261**
 
 ### After S Corporation Election
 - Reasonable salary: $100,000
 - FICA taxes on salary: $100,000 × 7.65% = $7,650 (employee portion)
 - Employer FICA: $7,650
 - Remaining $100,000 distributed as non-SE income
+- Section 199A QBI deduction on pass-through: $100,000 × 23% = $23,000
+- Tax savings from 199A: $23,000 × 32% = $7,360
 
-### Annual Savings
-- Previous SE tax: $28,261
-- New FICA cost: $15,300 total
-- **Net savings: $12,961 per year**
+### Annual Savings Analysis
+| Item | Sole Prop | S Corp |
+|------|-----------|--------|
+| SE Tax / FICA | $28,261 | $15,300 |
+| 199A QBI Deduction | $46,000 | $23,000 |
+| 199A Tax Savings | $14,720 | $7,360 |
+
+**SE/FICA Savings:** $28,261 - $15,300 = **$12,961**
+**Lost 199A Benefit:** $14,720 - $7,360 = **$7,360**
+**Net Annual Savings:** $12,961 - $7,360 = **$5,601**
+
+**Note:** The S Corp election reduces QBI (salary is excluded), but SE tax savings still exceed the lost 199A benefit. At higher income levels, S Corp benefits increase further.
 
 ## Key Tax Code References
 
@@ -161,7 +173,7 @@ Sarah operates a consulting business as a sole proprietor with $200,000 net inco
 - [Retirement Plan Optimization](retirement-plan-optimization.md)
 - [Exit Planning](exit-planning.md)
 
-## Effective Dates
+## Effective Dates & Key Law Changes (Post-OBBBA)
 
 | Provision | Effective Date | Status |
 |-----------|---------------|--------|
@@ -169,14 +181,15 @@ Sarah operates a consulting business as a sole proprietor with $200,000 net inco
 | LLC/Partnership Taxation | Check-the-box regulations 1997 | Permanent |
 | C Corporation 21% Rate | January 1, 2018 (TCJA) | Permanent |
 | QSBS 100% Exclusion | After September 27, 2010 | Permanent |
-| Section 199A Pass-through Deduction | January 1, 2018 | Expires December 31, 2025 (unless extended) |
+| Section 199A Pass-through Deduction | January 1, 2018 | **Permanent at 23%** (OBBBA) |
 
-**2026 Tax Year Considerations**:
-- S corporation election remains beneficial for self-employment tax savings.
-- **Critical**: Section 199A pass-through deduction expires after 2025 unless Congress extends it. This may significantly impact the comparison between entity types.
-- C corporation 21% rate is permanent and may become relatively more attractive if Section 199A expires.
-- Monitor legislative developments regarding TCJA extension.
+**OBBBA Entity Planning Impact:**
+- S corporation election remains beneficial for self-employment tax savings
+- Section 199A is now **permanent at 23%**—reduces relative S Corp benefit but still valuable
+- C corporation 21% rate is permanent; pass-through still generally preferred for most businesses
+- Entity choice analysis should compare 23% QBI deduction vs. SE tax savings
 
 ---
 
-*Last Updated: 11.27.25*
+*Last Updated: November 2025 (Post-OBBBA)*
+*S Corp Election Still Beneficial—Balance SE Savings Against 199A Impact*

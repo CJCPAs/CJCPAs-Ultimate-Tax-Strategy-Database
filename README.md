@@ -18,7 +18,7 @@ The One Big Beautiful Bill Act, signed July 4, 2025, made sweeping changes to th
 - **Bonus Depreciation:** Restored to **100%** permanently for property placed in service after January 20, 2025
 - **Individual Tax Brackets:** TCJA rates made **permanent** (top rate remains 37%)
 - **Standard Deduction:** TCJA amounts made **permanent**
-- **Child Tax Credit:** Increased to $2,500 per child (2025-2028)
+- **Child Tax Credit:** Increased to $2,200 per child (2025-2028)
 - **No Tax on Tips:** Tips excluded from income tax (subject to limitations)
 - **No Tax on Overtime:** Overtime pay deduction through 2028
 
@@ -207,7 +207,7 @@ Each strategy document follows a consistent format:
 | Section 179 Limit | $1,250,000 |
 | SALT Deduction Cap | **$40,000** (2025-2029) |
 | QBI Deduction | **23%** (199A - permanent) |
-| Child Tax Credit | **$2,500** (2025-2028) |
+| Child Tax Credit | **$2,200** (2025-2028) |
 | Bonus Depreciation | **100%** (permanent) |
 
 ### Key Tax Rates (2025)
@@ -251,6 +251,19 @@ BY USING THIS GUIDE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE T
 ## Change Log
 
 This section documents all significant updates to the tax strategy database for transparency and version tracking.
+
+### November 30, 2025 - Corrections Based on Community Feedback
+
+**Corrections Made:**
+- **Child Tax Credit:** Corrected from $2,500 to **$2,200** per child (2025-2028) in OBBBA overview and Quick Reference Tables
+- **Entity Structuring Strategy:** Updated case study to include Section 199A in the sole proprietor vs. S Corp comparison calculation
+- **Entity Structuring Strategy:** Removed outdated "199A expires 12/31/2025" language and updated Effective Dates section for OBBBA
+
+**Files Updated:**
+- `README.md` - Child Tax Credit corrected to $2,200
+- `strategies/entity-structuring.md` - Complete case study revision with 199A calculations, OBBBA effective dates
+
+*Thanks to community feedback for catching these items!*
 
 ### November 30, 2025 - OBBBA (One Big Beautiful Bill Act) Update
 
