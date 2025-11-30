@@ -4,19 +4,19 @@
 
 Trusts are separate taxpaying entities with their own set of tax rules, rates, and planning opportunities. The most striking feature of trust taxation is the highly compressed tax brackets—trusts reach the top 37% rate at just $14,450 of taxable income (2024), compared to $609,350 for single individuals. This compression creates both challenges and planning opportunities that every advisor should understand.
 
-## Effective Dates & Key Law Changes
+## Effective Dates & Key Law Changes (Post-OBBBA)
 
-| Provision | 2024 | 2025 | 2026 and Beyond |
-|-----------|------|------|-----------------|
-| Top Trust Bracket (37%) | $14,450 | ~$15,000 (est.) | Reverts to 39.6% at lower threshold |
-| 20% Capital Gains Bracket | $14,450 | ~$15,000 | Similar |
-| 3.8% NIIT Threshold | $14,450 | ~$15,000 | $14,450 (not indexed) |
-| Standard Deduction | None | None | None |
-| Personal Exemption | $100/$300 | $100/$300 | Same |
-| Section 199A | Available | Available | **Expires** |
-| Charitable Deduction | Available | Available | Same |
+| Provision | 2024 | 2025+ (OBBBA) |
+|-----------|------|---------------|
+| Top Trust Bracket | 37% at $14,450 | **37% (permanent)** ~$15,200 |
+| 20% Capital Gains Bracket | $14,450 | ~$15,200 (indexed) |
+| 3.8% NIIT Threshold | $14,450 | ~$15,200 (indexed) |
+| Standard Deduction | None | None |
+| Personal Exemption | $100/$300 | $100/$300 |
+| Section 199A | 20% | **23% (permanent)** |
+| Charitable Deduction | Available | Available |
 
-**2026 Alert:** The top rate reverts to 39.6% and brackets compress further. Trust income planning becomes even more critical.
+**OBBBA Update:** TCJA rates were made permanent. The 37% top bracket remains, and Section 199A is now permanent at 23%. Trust income planning remains critical due to compressed brackets.
 
 ## Trust Tax Basics
 
@@ -435,5 +435,5 @@ Trustee can elect to treat distributions made within first 65 days of year as ma
 
 ---
 
-*Last Updated: 2025*
-*Trusts Hit 37% at $14,450—Distribute Income When Possible!*
+*Last Updated: November 2025 (Post-OBBBA)*
+*Trusts Hit 37% at ~$15,200—Distribute Income When Possible!*

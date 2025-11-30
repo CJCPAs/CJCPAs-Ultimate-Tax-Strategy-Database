@@ -2,30 +2,47 @@
 
 ## Overview
 
-The Tax Cuts and Jobs Act (TCJA) of 2017 capped the State and Local Tax (SALT) deduction at $10,000 for individuals. In response, many states have enacted Pass-Through Entity (PTE) tax elections that allow S corporations, partnerships, and LLCs to pay state income tax at the entity level, effectively bypassing the SALT cap. This workaround has been sanctioned by the IRS and can save high-income business owners tens of thousands of dollars annually.
+The Tax Cuts and Jobs Act (TCJA) of 2017 originally capped the State and Local Tax (SALT) deduction at $10,000 for individuals. The **One Big Beautiful Bill Act (OBBBA)** of 2025 increased this cap to **$40,000 for 2025-2029**, with income-based phase-outs. Despite the higher cap, Pass-Through Entity (PTE) tax elections remain valuable for high-income business owners, particularly those above the phase-out thresholds. PTE elections allow S corporations, partnerships, and LLCs to pay state income tax at the entity level, effectively bypassing the SALT cap entirely.
+
+## Effective Dates & Key Law Changes (OBBBA Update)
+
+| Provision | TCJA (2018-2024) | OBBBA (2025-2029) | 2030+ |
+|-----------|------------------|-------------------|-------|
+| SALT Cap | $10,000 | **$40,000** | TBD (may revert) |
+| Phase-out Start | None | $500,000 AGI | TBD |
+| Phase-out Complete | None | $600,000 AGI | TBD |
+| PTE Workaround | Highly valuable | Still valuable (especially high income) | TBD |
+
+**OBBBA SALT Phase-Out Rules (2025-2029):**
+- Full $40,000 cap: AGI under $500,000
+- Reduced cap: AGI $500,000-$600,000 (phases out ratably)
+- No SALT deduction: AGI over $600,000
+- PTE election bypasses these limits entirely
 
 ## Key Benefits
 
-- Bypass $10,000 SALT deduction cap
+- Bypass SALT deduction cap (now $40,000, or phase-out limitations)
 - Full deduction for state taxes at entity level
 - IRS approved (Notice 2020-75)
 - Available in 35+ states
-- Significant tax savings for high-income owners
-- Relatively simple to implement
+- Critical for taxpayers above $500,000 AGI (phase-out zone)
+- Essential for taxpayers above $600,000 AGI (no SALT without PTE)
 - Can be combined with other strategies
 
 ## How SALT Workarounds Work
 
-### The Problem (TCJA SALT Cap)
+### The Problem (SALT Cap & Phase-Outs)
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                    Traditional Structure                         │
+│                    Traditional Structure (2025+)                 │
 ├─────────────────────────────────────────────────────────────────┤
 │  S Corp/Partnership Income → Pass-through to Owner              │
 │  Owner pays state tax personally                                │
-│  SALT Deduction: LIMITED TO $10,000                            │
-│  Lost deduction on state taxes over $10,000                     │
+│  SALT Deduction: LIMITED TO $40,000 (2025-2029)                │
+│  Phase-out: $500K-$600K AGI (reduced cap)                       │
+│  Above $600K AGI: NO SALT deduction at all                      │
+│  Lost deduction on state taxes over cap                         │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -88,51 +105,93 @@ The Tax Cuts and Jobs Act (TCJA) of 2017 capped the State and Local Tax (SALT) d
 
 ## Tax Savings Calculation
 
-### Basic Example
+### When PTE Election Matters Most (Post-OBBBA)
 
-**Business owner in California:**
-- S Corp net income: $500,000
+| AGI Level | SALT Cap Available | PTE Benefit |
+|-----------|-------------------|-------------|
+| Under $500,000 | $40,000 | Moderate (if state tax > $40K) |
+| $500,000-$600,000 | Reduced (phases out) | High |
+| Over $600,000 | **$0** | **Critical** |
+
+### Basic Example (AGI Over $600K - No SALT Without PTE)
+
+**Business owner in California (AGI $800,000):**
+- S Corp net income: $800,000
 - California tax rate: 9.3%
-- State tax: $46,500
+- State tax: $74,400
+- AGI above $600K = NO SALT deduction allowed
 
 **Without PTE Election:**
 | Item | Amount |
 |------|--------|
-| State tax paid personally | $46,500 |
-| SALT deduction | $10,000 (capped) |
-| Lost deduction | $36,500 |
-| Federal tax on lost deduction (37%) | $13,505 |
+| State tax paid personally | $74,400 |
+| SALT deduction | **$0** (above phase-out) |
+| Lost deduction | $74,400 |
+| Federal tax on lost deduction (37%) | $27,528 |
 
 **With PTE Election:**
 | Item | Amount |
 |------|--------|
-| State tax paid by entity | $46,500 |
-| Entity deduction (business expense) | $46,500 |
-| Federal taxable income reduction | $46,500 |
-| Federal tax savings (37%) | $17,205 |
+| State tax paid by entity | $74,400 |
+| Entity deduction (business expense) | $74,400 |
+| Federal taxable income reduction | $74,400 |
+| Federal tax savings (37%) | $27,528 |
 
-**Net Benefit: $17,205 annually**
+**Net Benefit: $27,528 annually**
 
-### Detailed Calculation
+### Example (AGI Under $500K - Still Beneficial if High State Tax)
+
+**Business owner in California (AGI $400,000):**
+- S Corp net income: $400,000
+- California tax rate: 9.3%
+- State tax: $37,200
+- Property taxes: $15,000
+- Total SALT: $52,200
+
+**Without PTE Election:**
+| Item | Amount |
+|------|--------|
+| Total state/local taxes | $52,200 |
+| SALT deduction | $40,000 (capped) |
+| Lost deduction | $12,200 |
+| Federal tax on lost deduction (37%) | $4,514 |
+
+**With PTE Election:**
+| Item | Amount |
+|------|--------|
+| State tax paid by entity | $37,200 |
+| Entity deduction (business expense) | $37,200 |
+| Property taxes (personal) | $15,000 |
+| Personal SALT deduction | $15,000 |
+| Full benefit captured | Yes |
+| Federal tax savings | $4,514 |
+
+**Net Benefit: $4,514 annually**
+
+### Detailed Calculation (High-Income NY Taxpayer)
 
 **Assumptions:**
 - Married filing jointly
-- $600,000 S Corp income
+- $900,000 S Corp income (AGI well above $600K)
 - New York resident (10.9% state rate)
-- Other SALT: $10,000 (property taxes)
+- Other SALT: $25,000 (property taxes)
 
 **State Tax:**
-$600,000 × 10.9% = $65,400
+$900,000 × 10.9% = $98,100
 
 **Without PTE:**
-- SALT cap reached with property taxes alone
-- $65,400 state tax = NO deduction
-- Lost benefit: $65,400 × 37% = $24,198
+- AGI above $600K = NO SALT deduction
+- $98,100 + $25,000 = $123,100 in state/local taxes
+- SALT deduction = $0
+- Lost benefit: $123,100 × 37% = $45,547
 
 **With PTE:**
-- Entity deducts $65,400 as business expense
-- Federal taxable income: $600,000 - $65,400 = $534,600
-- Tax savings: $24,198
+- Entity deducts $98,100 as business expense
+- Federal taxable income: $900,000 - $98,100 = $801,900
+- Tax savings: $98,100 × 37% = $36,297
+- Property taxes still not deductible personally (AGI too high)
+
+**Net Benefit: $36,297 annually**
 
 ## Requirements
 
@@ -341,7 +400,13 @@ $17,205 × 10 years = **$172,050** in federal tax savings
 **Federal:**
 - **IRS Notice 2020-75**: Confirms PTE taxes deductible at entity level
 - **IRC Section 164**: State and local tax deduction
-- **TCJA Section 11042**: $10,000 SALT cap
+- **TCJA Section 11042**: Original $10,000 SALT cap
+- **OBBBA (2025)**: Increased cap to $40,000 with phase-outs
+
+**OBBBA SALT Provisions:**
+- Cap: $40,000 (2025-2029)
+- Phase-out: $500,000-$600,000 AGI
+- Complete phase-out above $600,000 AGI
 
 **State:**
 - Individual state PTE statutes
@@ -357,4 +422,5 @@ $17,205 × 10 years = **$172,050** in federal tax savings
 
 ---
 
-*Last Updated: 2025*
+*Last Updated: November 2025 (Post-OBBBA)*
+*PTE Elections Essential for High-Income Taxpayers Above $600K AGI*

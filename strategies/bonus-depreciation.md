@@ -2,39 +2,29 @@
 
 ## Overview
 
-Bonus depreciation allows businesses to immediately deduct a significant percentage of the cost of qualifying property in the year it's placed in service, rather than depreciating it over the asset's useful life. This powerful tax strategy accelerates deductions and improves cash flow, particularly beneficial when combined with cost segregation for real estate.
+Bonus depreciation allows businesses to immediately deduct **100%** of the cost of qualifying property in the year it's placed in service. The **One Big Beautiful Bill Act (OBBBA)** of 2025 restored 100% bonus depreciation permanently for property placed in service after January 20, 2025, reversing the TCJA phase-out. This is one of the most powerful tax strategies available, particularly when combined with cost segregation for real estate.
+
+## Effective Dates & Key Law Changes (OBBBA Update)
+
+| Year Placed in Service | Bonus Rate | Status |
+|------------------------|------------|--------|
+| 2022 | 100% | TCJA |
+| 2023 | 80% | TCJA phase-out |
+| 2024 | 60% | TCJA phase-out |
+| Jan 1 - Jan 19, 2025 | 40% | TCJA phase-out |
+| **Jan 20, 2025+** | **100%** | **OBBBA - Permanent** |
+
+**OBBBA Restored 100% Bonus Depreciation Permanently:** Property placed in service after January 20, 2025 qualifies for 100% first-year depreciation with no phase-out schedule.
 
 ## Key Benefits
 
-- Immediate deduction of asset costs
+- **Immediate 100% deduction** of asset costs (permanent under OBBBA)
 - Improved cash flow through tax deferral
 - No dollar limit on bonus depreciation
 - Applies to new AND used property
 - Synergizes with cost segregation
 - Available for wide range of assets
-
-## Current Bonus Depreciation Rates
-
-| Year Placed in Service | Bonus Depreciation Rate |
-|------------------------|------------------------|
-| 2022 | 100% |
-| 2023 | 80% |
-| 2024 | 60% |
-| 2025 | 40% |
-| 2026 | 20% |
-| 2027+ | 0% |
-
-*Note: Congress may extend or modify these rates. Monitor legislative developments.*
-
-## Effective Dates
-
-| Provision | Effective Date | Expiration/Phase-out |
-|-----------|---------------|---------------------|
-| 100% Bonus Depreciation | Property placed in service after September 27, 2017 | Phased down starting 2023 |
-| Used Property Eligibility | September 28, 2017 | Follows bonus phase-out |
-| Qualified Improvement Property | January 1, 2018 (retroactive fix via CARES Act 2020) | Follows bonus phase-out |
-
-**2026 Tax Year**: Only 20% bonus depreciation available for property placed in service in 2026. Consider accelerating asset purchases to 2025 (40%) for greater tax benefit.
+- **No longer phasing out**—permanent planning tool
 
 ## Requirements
 
@@ -117,11 +107,11 @@ Property can be "new to the taxpayer" if:
    Regular Depreciation = Remaining Basis × MACRS Rate
    ```
 
-2. **Example: $500,000 Equipment (2024)**
-   - Bonus depreciation (60%): $300,000
-   - Remaining basis: $200,000
-   - Regular MACRS (5-year, Year 1): $40,000
-   - **Total Year 1 deduction: $340,000**
+2. **Example: $500,000 Equipment (2025+)**
+   - Bonus depreciation (100%): $500,000
+   - Remaining basis: $0
+   - Regular MACRS: $0
+   - **Total Year 1 deduction: $500,000**
 
 ### Step 3: Consider Elections
 
@@ -150,17 +140,18 @@ Property can be "new to the taxpayer" if:
    - Cost segregation reports
    - Election statements if applicable
 
-## Section 179 vs. Bonus Depreciation
+## Section 179 vs. Bonus Depreciation (2025+)
 
 | Feature | Section 179 | Bonus Depreciation |
 |---------|------------|-------------------|
-| Maximum (2024) | $1,220,000 | No limit |
-| Phase-out threshold | $3,050,000 | None |
-| Income limitation | Business income | None (can create loss) |
+| Maximum (2025) | $1,250,000 | **No limit** |
+| Phase-out threshold | $3,130,000 | None |
+| Income limitation | Business income | **None (can create loss)** |
 | Asset types | More limited | Broader |
 | Used property | Yes | Yes |
-| Real property | Limited | Yes (via cost seg) |
+| Real property | Limited | **Yes (via cost seg)** |
 | Election | Elective | Automatic (can opt out) |
+| Rate (2025+) | 100% (up to limit) | **100% (permanent)** |
 
 ### When to Use Each
 
@@ -192,26 +183,26 @@ Real estate normally depreciates over 27.5 or 39 years. Cost segregation identif
 
 ### Case Study
 
-**$2,000,000 Commercial Building (2024)**
+**$2,000,000 Commercial Building (2025+)**
 
 **Without Cost Segregation:**
 - Annual depreciation: $51,282 ($2M ÷ 39 years)
 - Year 1 deduction: $51,282
 
-**With Cost Segregation + Bonus:**
+**With Cost Segregation + 100% Bonus:**
 - Building (70%): $1,400,000 → 39-year depreciation
-- 5-year property (15%): $300,000 → 60% bonus eligible
-- 15-year property (15%): $300,000 → 60% bonus eligible
+- 5-year property (15%): $300,000 → **100% bonus eligible**
+- 15-year property (15%): $300,000 → **100% bonus eligible**
 
 Year 1 Calculation:
 - Building depreciation: $35,897
-- 5-year bonus (60%): $180,000
-- 5-year regular: $24,000
-- 15-year bonus (60%): $180,000
-- 15-year regular: $6,000
-- **Total Year 1: $425,897**
+- 5-year bonus (100%): **$300,000**
+- 15-year bonus (100%): **$300,000**
+- **Total Year 1: $635,897**
 
-**Benefit**: $374,615 additional Year 1 deduction
+**Benefit**: $584,615 additional Year 1 deduction (vs. straight-line)
+
+**Tax Savings at 37% rate**: $216,308 in Year 1
 
 ## Risks & Considerations
 
@@ -255,11 +246,11 @@ Year 1 Calculation:
 - Consider delivery and setup timing
 - Document placed-in-service evidence
 
-### Multi-Year Planning
-- Consider declining rates
-- Accelerate purchases in higher-rate years
-- Balance with business needs
-- Model multi-year tax impact
+### Multi-Year Planning (Post-OBBBA)
+- 100% bonus depreciation now permanent
+- No need to accelerate for rate concerns
+- Focus on business timing needs
+- Coordinate with other tax strategies
 
 ### Loss Planning
 - Bonus can create NOLs
@@ -275,6 +266,7 @@ Year 1 Calculation:
 - **IRC Section 1250**: Unrecaptured gain
 - **IRC Section 163(j)**: Business interest limitation
 - **Rev. Proc. 87-56**: Asset class lives
+- **OBBBA (2025)**: Restored 100% bonus depreciation permanently
 
 ## Related Strategies
 
@@ -284,4 +276,5 @@ Year 1 Calculation:
 
 ---
 
-*Last Updated: 11.27.25*
+*Last Updated: November 2025 (Post-OBBBA)*
+*100% Bonus Depreciation Restored Permanently—Maximize Your Asset Purchases!*
