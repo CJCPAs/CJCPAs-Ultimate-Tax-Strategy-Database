@@ -270,9 +270,10 @@ Dr. Jones earns $800,000 as a surgeon. Spouse manages 8 rental properties with c
 - Combine strategies for maximum benefit
 
 ### 199A Consideration
-- Rental income may qualify for 199A deduction
+- Rental income qualifies for permanent 23% Section 199A deduction
 - REPS rental income is QBI eligible
 - Real estate safe harbor alternative
+- 199A made permanent by OBBBA (July 2025) at 23% rate
 
 ### Net Investment Income Tax
 - REPS can avoid 3.8% NIIT on rental income
@@ -305,10 +306,8 @@ Dr. Jones earns $800,000 as a surgeon. Spouse manages 8 rental properties with c
 **2026 Tax Year**: REPS remains fully available for 2026. This strategy is especially valuable when combined with:
 - Cost segregation (even at 20% bonus depreciation in 2026)
 - Standard MACRS depreciation acceleration
-- 199A deduction on rental income (if extended beyond 2025)
-
-Note: If Section 199A expires after 2025, REPS becomes even more valuable as it remains the primary way to unlock rental real estate losses against other income.
+- Permanent 23% Section 199A deduction on rental income
 
 ---
 
-*Last Updated: 11.27.25*
+*Last Updated: November 2025 (Post-OBBBA)*

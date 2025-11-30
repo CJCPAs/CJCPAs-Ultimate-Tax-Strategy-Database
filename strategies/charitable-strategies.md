@@ -155,7 +155,7 @@ A Donor Advised Fund is a charitable giving vehicle that provides an immediate t
 ### Deduction Limits
 | Asset Type | AGI Limit |
 |-----------|-----------|
-| Cash | 60% |
+| Cash | 60% (permanent under OBBBA) |
 | Publicly traded securities | 30% |
 | Non-publicly traded assets | 20% |
 
@@ -343,14 +343,15 @@ Charitable bunching involves concentrating multiple years of charitable contribu
 |----------|-----------|---------------|--------|
 | CRTs | IRC Section 664 | Long-standing | Permanent - Active for 2026 |
 | DAFs | IRC Section 4966 | Enacted 2006 (Pension Protection Act) | Permanent - Active for 2026 |
-| Standard Deduction (MFJ) | TCJA | 2018-2025 (currently $29,200 for 2024) | Scheduled to decrease after 2025 |
+| Standard Deduction (MFJ) | TCJA/OBBBA | 2018-present (currently $29,200 for 2024) | Permanent under OBBBA (signed July 4, 2025) |
+| Cash Charitable Deduction Limit | TCJA/OBBBA | 60% AGI limit | Permanent under OBBBA (signed July 4, 2025) |
 | Charitable Bunching | N/A | Strategy-based, not statutory | Active for 2026 |
 
 **2026 Tax Year Considerations**:
-- The increased standard deduction under TCJA is scheduled to expire after 2025. If not extended, the standard deduction will decrease significantly in 2026, potentially making itemizing (including charitable deductions) more beneficial for many taxpayers.
-- Charitable bunching strategy may be less necessary if standard deduction reverts to pre-TCJA levels.
-- Monitor legislative developments regarding TCJA extension.
+- The OBBBA (One Big Beautiful Bill Act), signed July 4, 2025, made TCJA provisions permanent, including the increased standard deduction and 60% AGI charitable deduction limit for cash contributions.
+- The standard deduction will remain at TCJA levels permanently, making charitable bunching strategy continue to be valuable for taxpayers near the threshold.
+- Charitable bunching remains an effective strategy for maximizing the tax benefit of charitable giving for those who would otherwise take the standard deduction.
 
 ---
 
-*Last Updated: 11.27.25*
+*Last Updated: November 2025 (Post-OBBBA)*

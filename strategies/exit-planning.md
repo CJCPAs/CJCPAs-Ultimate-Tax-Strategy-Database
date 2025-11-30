@@ -368,9 +368,9 @@ Long-term Result:
 **2026 Tax Year Planning**:
 - **Opportunity Zones**: All deferred gains must be recognized by December 31, 2026. Plan for this tax liability.
 - **QSBS**: Remains fully available with 100% exclusion potential.
-- **Section 199A**: May impact pass-through entity sale valuations if it expires after 2025.
-- Consider accelerating exit planning discussions given potential tax law changes.
+- **Section 199A**: Now permanent at 23% deduction under OBBBA (signed July 4, 2025). Increases attractiveness of pass-through entity sales and valuations.
+- Consider accelerating exit planning discussions to maximize 199A benefits on business sale proceeds.
 
 ---
 
-*Last Updated: 11.27.25*
+*Last Updated: November 2025 (Post-OBBBA)*

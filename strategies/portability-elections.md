@@ -6,15 +6,15 @@ Portability allows a surviving spouse to use the deceased spouse's unused estate
 
 ## Effective Dates & Key Law Changes
 
-| Provision | 2024-2025 | 2026 and Beyond |
+| Provision | Pre-OBBBA (2024-2025) | Post-OBBBA (July 2025+) |
 |-----------|-----------|-----------------|
-| Estate/Gift Tax Exemption | $13.61M (2024) / ~$13.99M (2025) | ~$7M (indexed) - TCJA Sunset |
+| Estate/Gift Tax Exemption | $13.61M (2024) / ~$13.99M (2025) | **$15M permanent** (indexed) |
 | Estate Tax Rate | 40% | 40% |
 | Portability Available | Yes | Yes |
 | GST Exemption Portable | **NO** | **NO** |
 | Filing Deadline | 2 years (simplified) / 5 years (Rev. Proc. 2022-32) | Same |
 
-**Critical 2026 Planning Note:** The portability election becomes MORE valuable after the 2026 sunset. With the exemption dropping to ~$7M, preserving a deceased spouse's unused exemption could save families up to $2.8M in estate taxes ($7M × 40%).
+**OBBBA Impact (July 4, 2025):** The One Big Beautiful Bill Act made the estate and gift tax exemption permanent at $15M per person ($30M for married couples), indexed for inflation. This eliminates the previous TCJA sunset that would have reduced the exemption to ~$7M in 2026. Portability remains valuable for preserving a deceased spouse's unused exemption, potentially allowing couples to transfer up to $30M+ (indexed) without estate tax.
 
 ## Key Benefits
 
@@ -37,16 +37,16 @@ Portability allows a surviving spouse to use the deceased spouse's unused estate
 │                                                                 │
 │  First Spouse Dies (2026)                                       │
 │  ─────────────────────                                          │
-│  Estate: $3,000,000                                             │
-│  Exemption: $7,000,000                                          │
-│  Used: $3,000,000                                               │
-│  DSUE: $4,000,000 (unused)                                      │
+│  Estate: $5,000,000                                             │
+│  Exemption: $15,000,000                                         │
+│  Used: $5,000,000                                               │
+│  DSUE: $10,000,000 (unused)                                     │
 │                                                                 │
 │  Surviving Spouse (Later Death)                                 │
 │  ────────────────────────────                                   │
-│  Own exemption: $7,000,000 (indexed)                            │
-│  Plus DSUE: $4,000,000                                          │
-│  Total available: $11,000,000                                   │
+│  Own exemption: $15,000,000 (indexed)                           │
+│  Plus DSUE: $10,000,000                                         │
+│  Total available: $25,000,000                                   │
 │                                                                 │
 │  REQUIREMENT: Must file Form 706 to elect portability           │
 │  even though no estate tax is due on first death!               │
@@ -152,14 +152,14 @@ Original $5M DSUE is LOST
 | Simpler planning preferred | Alternative to credit shelter trust |
 | Surviving spouse needs flexibility | No locked assets |
 
-### 2026 Planning Urgency
+### Post-OBBBA Planning Priorities
 
 | Situation | Priority |
 |-----------|----------|
 | Recent death (within 5 years) with no 706 filed | **CRITICAL** - file immediately |
-| Estates over $7M (post-sunset) | High - portability essential |
-| Estates under $7M per spouse | Moderate - hedge against growth |
-| Wealthy couples planning | Consider before exemption drops |
+| Estates over $15M (above single exemption) | High - portability essential |
+| Estates $10M-$15M per spouse | Moderate - preserve full exemption |
+| High-growth estates | High - preserve DSUE before appreciation |
 
 ### When Credit Shelter Trust May Be Better
 
@@ -248,51 +248,51 @@ Original $5M DSUE is LOST
 
 Thomas dies in January 2026:
 - Married to Martha for 40 years
-- Thomas's estate: $4,500,000
-- Martha's assets: $6,500,000
-- Combined: $11,000,000
+- Thomas's estate: $8,000,000
+- Martha's assets: $14,000,000
+- Combined: $22,000,000
 - Two children (no GST planning needed)
 
-### 2026 Analysis
+### 2026 Analysis (Post-OBBBA)
 
-**Basic Exclusion (2026):** ~$7,000,000 per person
+**Basic Exclusion (2026):** $15,000,000 per person (permanent)
 
 **Without Portability Election:**
-- Martha's exemption at death: $7,000,000
-- Martha's estate (assuming no change): $11,000,000
-- Taxable estate: $4,000,000
-- Estate tax: **$1,600,000**
+- Martha's exemption at death: $15,000,000
+- Martha's estate (assuming no change): $22,000,000
+- Taxable estate: $7,000,000
+- Estate tax: **$2,800,000**
 
 **With Portability Election:**
 
 **Thomas's Estate (2026):**
 | Item | Amount |
 |------|--------|
-| Gross Estate | $4,500,000 |
-| Basic Exclusion | $7,000,000 |
+| Gross Estate | $8,000,000 |
+| Basic Exclusion | $15,000,000 |
 | Taxable Estate | $0 |
 | Estate Tax | $0 |
-| **DSUE Created** | **$2,500,000** |
+| **DSUE Created** | **$7,000,000** |
 
 **Martha's Estate (Later Death):**
 | Item | Amount |
 |------|--------|
-| Gross Estate | $11,000,000 |
-| Own Exemption | $7,000,000 |
-| Plus DSUE | $2,500,000 |
-| Total Exemption | $9,500,000 |
-| Taxable Estate | $1,500,000 |
-| Estate Tax | **$600,000** |
+| Gross Estate | $22,000,000 |
+| Own Exemption | $15,000,000 |
+| Plus DSUE | $7,000,000 |
+| Total Exemption | $22,000,000 |
+| Taxable Estate | $0 |
+| Estate Tax | **$0** |
 
-**Tax Savings from Portability: $1,000,000**
+**Tax Savings from Portability: $2,800,000**
 
 ### Filing Cost Analysis
 
 | Item | Cost |
 |------|------|
 | Form 706 preparation (simple estate) | $8,000 |
-| Estate tax savings | $1,000,000 |
-| **ROI** | **12,400%** |
+| Estate tax savings | $2,800,000 |
+| **ROI** | **34,900%** |
 
 ## Portability Planning Strategies
 
@@ -326,10 +326,10 @@ Thomas dies in January 2026:
 - Provides flexibility AND GST protection
 
 **Example:**
-- First spouse exemption: $7,000,000
-- Credit shelter trust: $4,000,000 (GST exempt)
+- First spouse exemption: $15,000,000
+- Credit shelter trust: $8,000,000 (GST exempt)
 - Marital deduction: Balance of estate
-- DSUE elected: $3,000,000
+- DSUE elected: $7,000,000
 
 ### Strategy 4: Consider State Estate Taxes
 
@@ -383,5 +383,5 @@ Thomas dies in January 2026:
 
 ---
 
-*Last Updated: 2025*
-*Critical: File Form 706 for ALL married decedents*
+*Last Updated: November 2025 (Post-OBBBA)*
+*Critical: File Form 706 for ALL married decedents to preserve portability*

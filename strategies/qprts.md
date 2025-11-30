@@ -6,24 +6,24 @@ A Qualified Personal Residence Trust (QPRT) is an irrevocable trust that allows 
 
 ## Effective Dates & Key Law Changes
 
-| Provision | 2024-2025 | 2026 and Beyond |
+| Provision | Pre-OBBBA (2024-2025) | Post-OBBBA (July 2025+) |
 |-----------|-----------|-----------------|
-| Gift/Estate Tax Exemption | $13.61M (2024) / ~$13.99M (2025) | ~$7M (indexed) - TCJA Sunset |
+| Gift/Estate Tax Exemption | $13.61M (2024) / ~$13.99M (2025) | $15M permanent (OBBBA) |
 | Estate Tax Rate | 40% | 40% |
 | Section 7520 Rate | ~5.0-5.6% | Varies monthly |
-| QPRT Availability | Yes | Yes (no sunset) |
+| QPRT Availability | Yes | Yes |
 
-**Critical 2026 Planning Note:** With the estate tax exemption dropping by approximately 50% in 2026, QPRTs become MORE valuable for estate planning as more estates will be subject to tax.
+**OBBBA Update (July 2025):** The One Big Beautiful Bill Act made the estate and gift tax exemption permanent at $15 million per person ($30 million for married couples), eliminating the previously scheduled 2026 sunset.
 
 ## Key Benefits
 
 - Transfer residence at discounted gift tax value
 - Remove home and future appreciation from estate
 - Retain right to live in home during trust term
-- Effective use of reduced gift tax exemption
+- Effective use of gift tax exemption
 - No income tax consequences during term
 - Combines well with other estate planning strategies
-- Particularly valuable post-2026 exemption sunset
+- Valuable for estates exceeding $15M exemption
 
 ## How QPRTs Work
 
@@ -97,11 +97,11 @@ The IRS allows a discount because:
 
 ## Client Fit Criteria
 
-### Ideal Candidates (Especially Post-2026)
+### Ideal Candidates
 
 | Characteristic | Why Favorable |
 |----------------|---------------|
-| Estate exceeds new ~$7M exemption | Need estate tax reduction strategies |
+| Estate exceeds $15M exemption | Need estate tax reduction strategies |
 | Own valuable primary or vacation home | Asset suitable for QPRT |
 | Good health with reasonable life expectancy | Must survive trust term |
 | Want to keep home in family | Passes to children/grandchildren |
@@ -110,12 +110,12 @@ The IRS allows a discount because:
 
 ### QPRT Suitability Analysis
 
-| Estate Size (2026) | Single | Married | QPRT Priority |
+| Estate Size | Single | Married | QPRT Priority |
 |--------------------|--------|---------|---------------|
-| Under $7M | Low | Low | Low |
-| $7M - $14M | High | Medium | High |
-| $14M - $20M | Very High | High | Very High |
-| Over $20M | Very High | Very High | Part of comprehensive plan |
+| Under $15M | Low | Low | Low |
+| $15M - $30M | High | Medium | High |
+| $30M - $50M | Very High | High | Very High |
+| Over $50M | Very High | Very High | Part of comprehensive plan |
 
 ### Less Ideal Candidates
 - Poor health or short life expectancy
@@ -126,11 +126,11 @@ The IRS allows a discount because:
 
 ## Implementation Steps
 
-### Phase 1: Analysis (2025-2026 Planning Window)
+### Phase 1: Analysis
 
 1. **Estate Tax Exposure Assessment**
-   - Calculate projected 2026 estate
-   - Compare to new ~$7M exemption
+   - Calculate projected estate value
+   - Compare to $15M exemption ($30M married)
    - Determine tax exposure
    - Consider both spouses' exemptions
 
@@ -274,42 +274,18 @@ The IRS allows a discount because:
 - All appreciation excluded
 - Excellent outcome
 
-## 2026 Planning Urgency
-
-### Why Act Before 2026?
-
-| Factor | Impact |
-|--------|--------|
-| Exemption drops ~50% | More estates taxable |
-| Same 40% rate | Tax exposure increases |
-| QPRT reduces taxable estate | More valuable post-sunset |
-| Current exemption | Can use now for gift portion |
-| "Use it or lose it" | Exemption not recoverable |
-
-### Pre-2026 Strategy
-
-**Optimal Approach:**
-1. Establish QPRT in 2025
-2. Use current high exemption for gift portion
-3. Even if exemption drops, gift is "locked in"
-4. IRS confirmed no "clawback" (Rev. Proc. 2019-39)
-
 ## Case Study
 
 ### Scenario
 Margaret, age 62 in 2025, owns:
-- Primary residence: $3,000,000
-- Other assets: $6,000,000
-- Total estate: $9,000,000
+- Primary residence: $5,000,000
+- Other assets: $14,000,000
+- Total estate: $19,000,000
 
-**2025 Analysis (Current Law):**
-- Exemption: ~$13.99M
-- Estate tax: $0
-
-**2026 Analysis (Post-Sunset):**
-- Exemption: ~$7,000,000
-- Taxable estate: $2,000,000
-- Estate tax: $800,000
+**Current Analysis (Post-OBBBA):**
+- Exemption: $15,000,000
+- Taxable estate: $4,000,000
+- Estate tax: $1,600,000
 
 ### QPRT Strategy
 
@@ -321,33 +297,33 @@ Margaret, age 62 in 2025, owns:
 **Calculations:**
 | Item | Amount |
 |------|--------|
-| Home FMV | $3,000,000 |
+| Home FMV | $5,000,000 |
 | Remainder factor | 0.4654 |
-| Gift value | $1,396,200 |
-| Discount | $1,603,800 (53%) |
+| Gift value | $2,327,000 |
+| Discount | $2,673,000 (53%) |
 
 **Gift Tax:**
-- Uses $1,396,200 of exemption
+- Uses $2,327,000 of exemption
 - No gift tax due (within exemption)
 
 ### Results if Margaret Survives to Age 74
 
 **Projected Home Value (3% appreciation):**
-$3,000,000 × 1.03^12 = $4,276,809
+$5,000,000 × 1.03^12 = $7,128,015
 
 **Estate Comparison (2037):**
 
 | Scenario | Without QPRT | With QPRT |
 |----------|--------------|-----------|
-| Home value | $4,276,809 | $0 (excluded) |
-| Other assets | $6,000,000 | $6,000,000 |
-| Taxable estate | $10,276,809 | $6,000,000 |
-| Exemption (est.) | $8,000,000 | $8,000,000 |
-| Taxable amount | $2,276,809 | $0 |
-| Estate tax (40%) | $910,724 | $0 |
-| **Savings** | — | **$910,724** |
+| Home value | $7,128,015 | $0 (excluded) |
+| Other assets | $14,000,000 | $14,000,000 |
+| Taxable estate | $21,128,015 | $14,000,000 |
+| Exemption (est.) | $16,000,000 | $16,000,000 |
+| Taxable amount | $5,128,015 | $0 |
+| Estate tax (40%) | $2,051,206 | $0 |
+| **Savings** | — | **$2,051,206** |
 
-**Additional Benefit:** If Margaret rents from children at $12,000/month for 10 years, additional $1,440,000 transferred.
+**Additional Benefit:** If Margaret rents from children at $20,000/month for 10 years, additional $2,400,000 transferred.
 
 ## QPRT vs. Other Strategies
 
@@ -377,5 +353,4 @@ $3,000,000 × 1.03^12 = $4,276,809
 
 ---
 
-*Last Updated: 2025*
-*Effective for 2026 Planning*
+*Last Updated: November 2025 (Post-OBBBA)*

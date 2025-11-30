@@ -6,15 +6,15 @@ A Dynasty Trust is a long-term irrevocable trust designed to pass wealth from ge
 
 ## Effective Dates & Key Law Changes
 
-| Provision | 2024-2025 | 2026 and Beyond |
-|-----------|-----------|-----------------|
-| GST Tax Exemption | $13.61M (2024) / ~$13.99M (2025) | ~$7M (indexed) - TCJA Sunset |
+| Provision | 2024-2025 | Post-OBBBA (2025+) |
+|-----------|-----------|---------------------|
+| GST Tax Exemption | $13.61M (2024) / ~$13.99M (2025) | $15M permanent (OBBBA) |
 | GST Tax Rate | 40% | 40% |
-| Estate/Gift Exemption | Same as GST | ~$7M (indexed) |
+| Estate/Gift Exemption | Same as GST | $15M permanent (OBBBA) |
 | Dynasty Trust Rules | Unchanged | Unchanged |
 | State Perpetuity Rules | Varies by state | Varies by state |
 
-**Critical 2026 Planning Note:** The GST exemption is also cut approximately in half in 2026. Funding dynasty trusts NOW with the current high exemption locks in the benefit permanently—no clawback on properly allocated GST exemption.
+**OBBBA Update (July 2025):** The One Big Beautiful Bill Act (OBBBA) permanently set the GST, estate, and gift tax exemption at $15M per person ($30M married). The previously scheduled 2026 sunset to ~$7M has been eliminated.
 
 ## Key Benefits
 
@@ -97,7 +97,7 @@ After 3 generations: $80M+ available for family (no transfer tax)
 
 ## Client Fit Criteria
 
-### Ideal Candidates (Critical Pre-2026)
+### Ideal Candidates
 
 | Characteristic | Why Important |
 |----------------|---------------|
@@ -107,14 +107,14 @@ After 3 generations: $80M+ available for family (no transfer tax)
 | Dynasty-state connection or willing to establish | Necessary for perpetual trust |
 | Family values align with long-term planning | Multi-generation commitment |
 
-### 2026 Planning Urgency
+### Planning Priority by Wealth Level
 
-| Current Wealth | Priority for 2025 Dynasty Trust |
-|----------------|--------------------------------|
-| Over $14M (single) | Critical—use full exemption now |
-| Over $28M (married) | Critical—use both exemptions now |
-| $7M-$14M | High—lock in current exemption |
-| Under $7M | Moderate—depends on growth |
+| Current Wealth | Priority for Dynasty Trust |
+|----------------|----------------------------|
+| Over $15M (single) | High—utilize full exemption |
+| Over $30M (married) | High—utilize both exemptions |
+| $10M-$15M | Moderate—depends on growth trajectory |
+| Under $10M | Lower—evaluate other strategies first |
 
 ### Less Ideal Candidates
 - Need access to all assets
@@ -125,10 +125,10 @@ After 3 generations: $80M+ available for family (no transfer tax)
 
 ## Implementation Steps
 
-### Phase 1: Pre-2026 Urgency Planning
+### Phase 1: Initial Planning
 
 1. **Exemption Analysis**
-   - Calculate available GST exemption
+   - Calculate available GST exemption ($15M per person)
    - Coordinate with gift/estate exemption
    - Determine optimal funding amount
    - Consider both spouses' exemptions
@@ -171,7 +171,7 @@ After 3 generations: $80M+ available for family (no transfer tax)
    - Amendment procedures
    - Investment guidance
 
-### Phase 3: Execution (Before 12/31/2025 for Full Exemption)
+### Phase 3: Execution
 
 1. **Draft and Execute Trust**
    - Work with dynasty trust attorney
@@ -318,44 +318,46 @@ After 3 generations: $80M+ available for family (no transfer tax)
 ## Case Study
 
 ### Scenario
-Robert and Susan, both 60 in 2025:
+Robert and Susan, both 60:
 - Combined estate: $40,000,000
 - Four children, eight grandchildren
 - Goal: Multi-generational wealth preservation
 
-### Pre-2026 Dynasty Trust Strategy
+### Dynasty Trust Strategy (Post-OBBBA)
 
 **Structure:**
 - Each spouse creates dynasty trust
-- Fund with $13,990,000 each (full 2025 exemption)
+- Fund with $15,000,000 each (full exemption under OBBBA)
 - Allocate full GST exemption to each
-- Total GST-exempt corpus: $27,980,000
+- Total GST-exempt corpus: $30,000,000
 
 **Assets Transferred:**
 - FLP interests (with 30% discount)
-- Actual value transferred: ~$40,000,000
-- Gift/GST value: $27,980,000
+- Actual value transferred: ~$42,850,000
+- Gift/GST value: $30,000,000
 
 ### Projected Growth (No Additional Contributions)
 
 | Generation | Years | Value (6% growth) | Estate Tax Saved |
 |------------|-------|-------------------|------------------|
-| Children (Year 25) | 25 | $120M | $48M |
-| Grandchildren (Year 50) | 50 | $515M | $206M |
-| Great-grandchildren (Year 75) | 75 | $2.2B | $880M |
-| Great-great-grandchildren (Year 100) | 100 | $9.5B | $3.8B |
+| Children (Year 25) | 25 | $129M | $51M |
+| Grandchildren (Year 50) | 50 | $552M | $221M |
+| Great-grandchildren (Year 75) | 75 | $2.4B | $960M |
+| Great-great-grandchildren (Year 100) | 100 | $10.3B | $4.1B |
 
 **Multi-Generational Tax Savings: BILLIONS**
 
-### If They Wait Until 2026
+### Comparison: Pre-OBBBA vs. Post-OBBBA Planning
 
-**2026 Exemption:** ~$7,000,000 each = $14,000,000 total
+**Pre-OBBBA Scenario (2024-2025):**
+- Combined exemption: ~$27.98M (2025)
+- Feared 2026 reduction: ~$14M (sunset to ~$7M each)
+- Urgency: Critical planning before 12/31/2025
 
-**Opportunity Cost:**
-- 2025: Can transfer $27.98M GST-exempt
-- 2026: Can transfer $14M GST-exempt
-- Lost opportunity: $13.98M GST-exempt
-- Long-term cost (100 years): $1.5B+ in tax savings lost
+**Post-OBBBA Outcome (July 2025):**
+- Permanent exemption: $30M ($15M per person)
+- No sunset risk
+- Planning timeline: More flexible, but still valuable for high-net-worth families
 
 ## Dynasty Trust vs. Other Strategies
 
@@ -389,5 +391,4 @@ Robert and Susan, both 60 in 2025:
 
 ---
 
-*Last Updated: 2025*
-*Critical Action Required Before December 31, 2025*
+*Last Updated: November 2025 (Post-OBBBA)*

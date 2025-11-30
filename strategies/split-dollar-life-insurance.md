@@ -6,16 +6,16 @@ Split-dollar life insurance is an arrangement where two parties (typically an em
 
 ## Effective Dates & Key Law Changes
 
-| Provision | Current Law | 2026 and Beyond |
-|-----------|-------------|-----------------|
-| Economic Benefit Regime | Active | No change expected |
-| Loan Regime | Active | No change expected |
-| AFR Rates | Monthly published | Monthly published |
-| Estate Tax Exemption | ~$13.99M (2025) | ~$7M (TCJA sunset) |
-| Gift Tax Annual Exclusion | $19,000 (2025) | Indexed |
-| Section 409A | May apply | May apply |
+| Provision | Current Law | OBBBA Changes (July 2025) |
+|-----------|-------------|---------------------------|
+| Economic Benefit Regime | Active | No change |
+| Loan Regime | Active | No change |
+| AFR Rates | Monthly published | No change |
+| Estate Tax Exemption | $15M per person | **Made permanent at $15M** |
+| Gift Tax Annual Exclusion | $19,000 (2025) | Indexed annually |
+| Section 409A | May apply | No change |
 
-**2026 Planning Alert:** Split-dollar arrangements in estate planning become MORE valuable after the exemption drops, as they can transfer significant value outside the estate with minimal gift tax.
+**OBBBA Update (July 2025):** The One Big Beautiful Bill Act permanently set the estate tax exemption at $15M per person ($30M married), eliminating the previous TCJA sunset. Split-dollar arrangements remain valuable for leveraging this permanent exemption through estate-tax-free death benefit transfers.
 
 ## Types of Split-Dollar Arrangements
 
@@ -327,8 +327,8 @@ Equity split-dollar allows the employee/trust to participate in cash value growt
 
 **The Johnsons:**
 - Net worth: $25,000,000
-- Used exemptions: $27,000,000 (both spouses)
-- Need: $10,000,000 life insurance for estate taxes
+- Available exemptions: $30,000,000 (both spouses at $15M each, post-OBBBA permanent)
+- Need: $10,000,000 life insurance for estate liquidity
 - Challenge: Don't want to make $300,000/year gifts
 
 ### Traditional ILIT Approach
@@ -402,5 +402,5 @@ Split-dollar allows transfer of $4M+ estate-tax-free while only making ~$2M in e
 
 ---
 
-*Last Updated: 2025*
+*Last Updated: November 2025 (Post-OBBBA)*
 *Split-Dollar Requires Careful Regime Selection and Documentation*

@@ -12,10 +12,8 @@ S-Corporation shareholder-employees must receive "reasonable compensation" for s
 | Social Security Tax Rate | 12.4% (6.2% each) | Same |
 | Medicare Tax Rate | 2.9% (1.45% each) | Same |
 | Additional Medicare Tax | 0.9% over $200K/$250K | Same |
-| Section 199A QBI Deduction | 20% of QBI | **Expires** (unless extended) |
+| Section 199A QBI Deduction | 23% of QBI | **Permanent (OBBBA)** |
 | Net Investment Income Tax | 3.8% | Same |
-
-**2026 Planning Alert:** When Section 199A expires, the calculus changes significantly. Currently, minimizing salary maximizes QBI. After 2026, reasonable compensation analysis focuses purely on payroll tax savings.
 
 ## The Core Issue
 
@@ -232,14 +230,14 @@ S-Corporation shareholder-employees must receive "reasonable compensation" for s
 
 **Additional Payroll Tax:** $10,682
 
-### Section 199A Interaction (Through 2025)
+### Section 199A Interaction
 
 **QBI Deduction Impact:**
 
-| Salary | QBI (simplified) | 199A Deduction (20%) |
+| Salary | QBI (simplified) | 199A Deduction (23%) |
 |--------|-----------------|---------------------|
-| $100,000 | $100,000 | $20,000 |
-| $150,000 | $50,000 | $10,000 |
+| $100,000 | $100,000 | $23,000 |
+| $150,000 | $50,000 | $11,500 |
 | $200,000 | $0 | $0 |
 
 **Optimal Balance:**
@@ -266,9 +264,9 @@ S-Corporation shareholder-employees must receive "reasonable compensation" for s
 | Distribution | $200,000 | $280,000 | Higher |
 | Payroll tax | $27,144 | $18,360 | N/A |
 | QBI | $200,000 | $280,000 | N/A |
-| 199A deduction | $40,000 | $56,000 | N/A |
-| 199A tax savings | $14,800 | $20,720 | N/A |
-| **Net tax difference** | Baseline | ($2,936) | Audit risk |
+| 199A deduction | $46,000 | $64,400 | N/A |
+| 199A tax savings | $17,020 | $23,828 | N/A |
+| **Net tax difference** | Baseline | ($3,824) | Audit risk |
 
 ## IRS Audit Defense
 
@@ -355,9 +353,9 @@ Dr. Smith, dentist:
 | Distribution | $210,000 |
 | Payroll tax | $30,486 |
 | QBI | $210,000 |
-| 199A deduction | $42,000 |
-| 199A savings | $15,540 |
-| **Net additional tax vs. audit scenario** | ~$15,000 but NO audit risk |
+| 199A deduction | $48,300 |
+| 199A savings | $17,871 |
+| **Net additional tax vs. audit scenario** | ~$13,000 but NO audit risk |
 
 ## Best Practices
 
@@ -403,5 +401,5 @@ Dr. Smith, dentist:
 
 ---
 
-*Last Updated: 2025*
+*Last Updated: November 2025 (Post-OBBBA)*
 *IRS Scrutiny is HIGH—Document Reasonable Compensation Annually*

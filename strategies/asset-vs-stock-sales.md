@@ -10,13 +10,11 @@ When selling a business, one of the most important tax decisions is whether to s
 |-----------|-------------|-----------------|
 | Corporate Tax Rate | 21% | 21% (no change scheduled) |
 | Capital Gains Rate (Individual) | 0%/15%/20% + 3.8% NIIT | Same |
-| Ordinary Income Rate (max) | 37% | 39.6% (TCJA sunset) |
+| Ordinary Income Rate (max) | 37% | 37% (TCJA rates permanent - OBBBA 2025) |
 | QSBS Exclusion (Section 1202) | 100% | 100% (permanent) |
 | Section 338(h)(10) | Available | No change expected |
 | Section 336(e) | Available | No change expected |
-| Bonus Depreciation | 40% (2025), 20% (2026) | Phase-out continues |
-
-**2026 Planning Note:** Higher ordinary rates post-sunset may increase the cost of asset sales for sellers (more ordinary income recapture). Bonus depreciation phase-out reduces buyer benefit of asset purchase.
+| Bonus Depreciation | 100% (permanent - OBBBA 2025) | 100% (permanent) |
 
 ## Asset Sale vs. Stock Sale Basics
 
@@ -398,5 +396,5 @@ TechCo (S-Corporation):
 
 ---
 
-*Last Updated: 2025*
+*Last Updated: November 2025 (Post-OBBBA)*
 *Model BOTH Structures Before Finalizing Any Business Sale*

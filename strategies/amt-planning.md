@@ -4,6 +4,8 @@
 
 The Alternative Minimum Tax (AMT) is a parallel tax system designed to ensure high-income taxpayers pay at least a minimum amount of tax by limiting certain deductions and preferences. While the Tax Cuts and Jobs Act (TCJA) of 2017 significantly reduced the number of taxpayers subject to AMT, it remains a concern for certain situations, particularly those involving incentive stock options (ISOs), large state tax deductions, and significant itemized deductions.
 
+The One Big Beautiful Bill Act (OBBBA), signed July 4, 2025, made the TCJA AMT exemption amounts and phase-out thresholds permanent and increased the SALT deduction cap to $40,000 (2025-2029) with income phase-outs starting at $500,000 AGI.
+
 ## Key Concepts
 
 ### How AMT Works
@@ -41,21 +43,25 @@ The Alternative Minimum Tax (AMT) is a parallel tax system designed to ensure hi
 | Tax rates | 10%-37% | 26%-28% |
 | Standard deduction | Yes | No |
 | Personal exemptions | No longer applicable | No |
-| State/local tax deduction | $10,000 cap | Not allowed |
+| State/local tax deduction | $40,000 cap (2025-2029)* | Not allowed |
 | Mortgage interest | Acquisition debt only | Same |
 | Medical expenses | 7.5% AGI floor | 7.5% AGI floor |
 | Miscellaneous deductions | Not allowed | Not allowed |
 | ISO exercise spread | Not taxable | Preference item |
 
-## AMT Exemption and Phase-Out (2024)
+*SALT deduction phases out for AGI $500,000-$600,000
 
-### Exemption Amounts
+## AMT Exemption and Phase-Out (2025 and Beyond)
+
+### Exemption Amounts (Permanent Under OBBBA)
 
 | Filing Status | Exemption | Phase-Out Begins | Exemption Eliminated |
 |---------------|-----------|------------------|---------------------|
 | Single | $85,700 | $609,350 | $952,150 |
 | MFJ | $133,300 | $1,218,700 | $1,751,900 |
 | MFS | $66,650 | $609,350 | $875,950 |
+
+**Note:** These TCJA AMT exemption amounts and thresholds were made permanent by OBBBA (July 2025) and will be indexed for inflation annually.
 
 ### Phase-Out Mechanics
 - Exemption reduced by 25 cents for each $1 over threshold
@@ -83,10 +89,17 @@ The Alternative Minimum Tax (AMT) is a parallel tax system designed to ensure hi
 
 ### 2. State and Local Tax (SALT) Deduction
 
-**Regular tax**: $10,000 cap (TCJA)
+**Regular tax**: $40,000 cap (2025-2029, OBBBA)
+- Phases out at $500,000-$600,000 AGI
+- Full deduction available below $500,000 AGI
+- Completely phased out above $600,000 AGI
+
 **AMT**: Not deductible at all
 
-For high SALT taxpayers, the $10,000 cap reduced AMT exposure (both systems now similar treatment).
+For high SALT taxpayers:
+- The increased $40,000 cap (from $10,000) reduces AMT exposure for taxpayers with AGI below $500,000
+- Taxpayers with AGI above $600,000 have similar treatment under both systems (minimal/no SALT deduction)
+- Taxpayers in the $500,000-$600,000 AGI range face partial SALT phase-out
 
 ### 3. Large Itemized Deductions
 
@@ -135,24 +148,26 @@ Required if:
 | Situation | AMT Risk |
 |-----------|----------|
 | ISO holders planning exercise | High |
-| High SALT taxpayers (before TCJA) | Reduced post-TCJA |
+| High SALT taxpayers (AGI < $500K) | Reduced under OBBBA |
+| High SALT taxpayers (AGI > $600K) | Minimal difference |
 | Private activity bond investors | Moderate |
 | Large investment interest expense | Moderate |
 | Tax shelter participants | High |
 | High income + large capital gains | Moderate |
 
-### Post-TCJA Reality
+### Post-OBBBA Reality (July 2025)
 
 **AMT is less common because:**
-- Higher exemptions ($133,300 MFJ vs. old $86,200)
-- Higher phase-out thresholds
-- SALT cap already limits deduction for regular tax
+- Higher exemptions ($133,300 MFJ vs. old $86,200) - **now permanent**
+- Higher phase-out thresholds - **now permanent**
+- Increased SALT cap ($40,000 vs. old $10,000) limits deduction differential for regular tax
+  - Phases out at $500,000-$600,000 AGI
 - No personal exemptions to lose
 
 **But still affects:**
-- ISO exercisers
-- Very high income taxpayers
-- Those with specific preferences
+- ISO exercisers (primary AMT population)
+- Very high income taxpayers (AGI > $600,000)
+- Those with specific preferences (private activity bonds, etc.)
 
 ## Planning Strategies
 
@@ -215,7 +230,7 @@ Required if:
 
 | Deduction | Regular Tax | AMT | Strategy |
 |-----------|-------------|-----|----------|
-| SALT | $10,000 cap | $0 | No timing benefit |
+| SALT | $40,000 cap (phases out $500K-$600K AGI) | $0 | Limited timing benefit |
 | Charitable | Deductible | Deductible | Neutral |
 | Mortgage interest | Deductible | Limited | Time carefully |
 | Investment interest | Deductible | Deductible | Neutral |
@@ -264,17 +279,17 @@ Jennifer and Mike have the following situation:
 | Salary | $400,000 |
 | Capital gains | $100,000 |
 | AGI | $500,000 |
-| SALT (capped) | ($10,000) |
+| SALT (capped at $40,000, phase-out begins) | ($40,000) |
 | Mortgage interest | ($30,000) |
-| Taxable income | $460,000 |
-| Regular tax | ~$108,000 |
+| Taxable income | $430,000 |
+| Regular tax | ~$98,000 |
 
 ### AMT Calculation
 
 | Item | Amount |
 |------|--------|
-| Regular taxable income | $460,000 |
-| Add back: SALT deduction | $10,000 |
+| Regular taxable income | $430,000 |
+| Add back: SALT deduction | $40,000 |
 | Add: ISO spread | $200,000 |
 | AMTI | $670,000 |
 | Less: Exemption (phase-out applies) | ~$67,000 |
@@ -282,13 +297,15 @@ Jennifer and Mike have the following situation:
 | Tentative minimum tax (28%) | ~$168,840 |
 
 ### Tax Owed
-- Regular tax: $108,000
+- Regular tax: $98,000
 - Tentative AMT: $168,840
-- **AMT owed: $168,840 - $108,000 = $60,840 additional**
+- **AMT owed: $168,840 - $98,000 = $70,840 additional**
+
+**Note:** Under prior law ($10,000 SALT cap), the AMT differential would have been $60,840. The increased SALT deduction actually increases the AMT add-back, resulting in higher AMT in this specific scenario.
 
 ### Minimum Tax Credit
-- AMT from ISO (timing item): $60,840
-- MTC generated: $60,840
+- AMT from ISO (timing item): $70,840
+- MTC generated: $70,840
 - Can use in future years when regular tax > AMT
 
 ## Risks & Considerations
@@ -394,4 +411,4 @@ Robert, single, has the following:
 
 ---
 
-*Last Updated: 2025*
+*Last Updated: November 2025 (Post-OBBBA)*

@@ -6,16 +6,16 @@ Global Intangible Low-Taxed Income (GILTI) is a category of income introduced by
 
 ## Effective Dates & Key Law Changes
 
-| Provision | 2018-2025 | 2026 and Beyond |
-|-----------|-----------|-----------------|
-| GILTI Inclusion | Required | Required |
-| Corporate Deduction (Section 250) | 50% | 37.5% |
-| Effective Corporate Rate | 10.5% | 13.125% |
-| Individual Rate | Ordinary rates | Ordinary rates (no deduction) |
-| Foreign Tax Credit | 80% of foreign taxes | 80% of foreign taxes |
-| QBAI Exclusion | 10% of QBAI | 10% of QBAI |
+| Provision | Permanent (Post-OBBBA) |
+|-----------|------------------------|
+| GILTI Inclusion | Required |
+| Corporate Deduction (Section 250) | 50% |
+| Effective Corporate Rate | 10.5% |
+| Individual Rate | Ordinary rates (no deduction) |
+| Foreign Tax Credit | 80% of foreign taxes |
+| QBAI Exclusion | 10% of QBAI |
 
-**2026 Planning Alert:** The Section 250 deduction decreases, effectively RAISING the GILTI tax rate for corporations from 10.5% to 13.125%. Individual shareholders receive NO Section 250 deduction.
+**OBBBA Update (July 2025):** The One Big Beautiful Bill Act made all TCJA provisions permanent. The Section 250 deduction remains at 50%, keeping the effective corporate GILTI rate at 10.5%. The previously scheduled reduction in the Section 250 deduction to 37.5% (which would have increased the rate to 13.125%) will NOT occur. Individual shareholders still receive NO Section 250 deduction.
 
 ## What is GILTI?
 
@@ -102,9 +102,8 @@ GILTI = CFC's Net Tested Income - (10% × Qualified Business Asset Investment)
 | Aspect | Corporate Shareholder | Individual Shareholder |
 |--------|----------------------|------------------------|
 | GILTI Inclusion | Yes | Yes |
-| Section 250 Deduction | 50% (2025) / 37.5% (2026+) | **None** |
-| Effective Rate (2025) | 10.5% | Up to 37% |
-| Effective Rate (2026+) | 13.125% | Up to 37%+ |
+| Section 250 Deduction | 50% (permanent) | **None** |
+| Effective Rate | 10.5% | Up to 37% |
 | Foreign Tax Credit | 80% with limitations | Limited |
 | Section 962 Election | N/A | Available |
 
@@ -193,7 +192,7 @@ GILTI = CFC's Net Tested Income - (10% × Qualified Business Asset Investment)
 **Exclude high-taxed CFC income from tested income:**
 
 **Requirements (Final Regulations 2020):**
-- Foreign effective tax rate > 18.9% (2025) / 16.406% (2026+)
+- Foreign effective tax rate > 18.9% (permanent under OBBBA)
 - Calculated per CFC, per tested unit
 - Election made annually
 
@@ -243,7 +242,7 @@ GILTI = CFC's Net Tested Income - (10% × Qualified Business Asset Investment)
 **If currently individual owner:**
 - Contribute CFC stock to domestic C-Corp
 - Corporation gets Section 250 deduction
-- 10.5% (2025) / 13.125% (2026+) effective rate
+- 10.5% effective rate (permanent under OBBBA)
 - Dividends to individual taxed at 20% + 3.8%
 
 **Analysis Required:**
@@ -331,7 +330,7 @@ Dr. Martinez, U.S. citizen, owns 100% of MedTech Ltd (Irish company):
 | Item | Analysis |
 |------|----------|
 | Irish rate | 12.5% |
-| Threshold (2025) | 18.9% |
+| Threshold (permanent) | 18.9% |
 | Qualifies? | **No** (12.5% < 18.9%) |
 
 Ireland's rate is below threshold—high-tax exclusion not available.
@@ -368,5 +367,5 @@ Ireland's rate is below threshold—high-tax exclusion not available.
 
 ---
 
-*Last Updated: 2025*
-*Section 250 Deduction Decreases in 2026—Plan Accordingly*
+*Last Updated: November 2025 (Post-OBBBA)*
+*TCJA Provisions Now Permanent - Section 250 Deduction Remains at 50%*
