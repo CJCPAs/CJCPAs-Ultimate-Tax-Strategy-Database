@@ -88,8 +88,8 @@ To avoid IRC Section 2036/2038 inclusion:
 ## Client Fit Criteria
 
 ### Ideal Candidates
-- Married couples with combined estates exceeding exemption
-- Those wanting to use exemption before 2026 sunset
+- Married couples with combined estates exceeding $30M exemption
+- Those wanting to transfer appreciating assets out of estate
 - Couples with sufficient assets to gift while maintaining financial security
 - Spouses in stable marriages
 - Couples wanting asset protection

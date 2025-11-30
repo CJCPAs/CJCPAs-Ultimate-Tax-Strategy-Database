@@ -47,7 +47,7 @@ The One Big Beautiful Bill Act, signed July 4, 2025, made sweeping changes to th
 
 ### Real Estate Strategies
 - [Cost Segregation](strategies/cost-segregation.md) - Accelerated depreciation for real estate
-- [Bonus Depreciation](strategies/bonus-depreciation.md) - First-year depreciation benefits (60% in 2024, phasing out)
+- [Bonus Depreciation](strategies/bonus-depreciation.md) - First-year depreciation benefits (100% permanent under OBBBA)
 - [Opportunity Zones](strategies/opportunity-zones.md) - Capital gains deferral and exclusion
 - [1031 Like-Kind Exchanges](strategies/1031-exchanges.md) - Tax-deferred real estate exchanges
 - [Short-Term Rental Strategies](strategies/short-term-rentals.md) - STR tax benefits and the 7-day rule
@@ -130,6 +130,9 @@ The One Big Beautiful Bill Act, signed July 4, 2025, made sweeping changes to th
 - [Energy Tax Credits](strategies/energy-tax-credits.md) - IRA 2022 solar, EV, and clean energy credits
 - [QSBS (Section 1202)](strategies/qsbs.md) - Qualified Small Business Stock exclusion
 
+### Database Information
+- [Change Log](#change-log) - Version history and updates
+
 ---
 
 ## How to Use This Guide
@@ -137,7 +140,7 @@ The One Big Beautiful Bill Act, signed July 4, 2025, made sweeping changes to th
 Each strategy document follows a consistent format:
 
 1. **Overview** - Brief description and key benefits
-2. **Effective Dates & Key Law Changes** - Current rules and 2026 sunset provisions
+2. **Effective Dates & Key Law Changes** - Current rules and OBBBA updates
 3. **Requirements** - Eligibility criteria and prerequisites
 4. **Client Fit Criteria** - Who should consider this strategy
 5. **Implementation Steps** - Detailed action items
@@ -245,7 +248,74 @@ BY USING THIS GUIDE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE T
 
 ---
 
-*Last Updated: November 2025 (Post-OBBBA)*
+## Change Log
+
+This section documents all significant updates to the tax strategy database for transparency and version tracking.
+
+### November 30, 2025 - OBBBA (One Big Beautiful Bill Act) Update
+
+**Major Law Changes Incorporated:**
+
+The One Big Beautiful Bill Act was signed into law on July 4, 2025, making sweeping changes to the tax code. This update reflects those changes throughout the database.
+
+| Provision | Previous (TCJA) | Updated (OBBBA) |
+|-----------|-----------------|-----------------|
+| SALT Deduction Cap | $10,000 | **$40,000** (2025-2029) with phase-outs |
+| Section 199A QBI | 20%, expiring 12/31/2025 | **23%, permanent** |
+| Estate/Gift/GST Exemption | ~$13.99M, sunsetting to ~$7M | **$15M permanent** |
+| Bonus Depreciation | Phasing out (40% in 2025) | **100% permanent** (post 1/20/25) |
+| Individual Tax Brackets | TCJA rates, sunsetting | **TCJA rates permanent** |
+
+**Files Updated:**
+- `README.md` - New OBBBA overview section, updated Quick Reference Tables, removed TCJA sunset alerts
+- `strategies/salt-workarounds.md` - $40K cap, phase-out rules, updated calculations
+- `strategies/199a-maximization.md` - 23% permanent rate, updated examples
+- `strategies/bonus-depreciation.md` - 100% permanent, revised case studies
+- `strategies/lifetime-gift-tax-strategies.md` - $15M permanent exemption
+- `strategies/slats.md` - Updated thresholds and case study
+- `strategies/grats.md` - Updated legislative considerations
+- `strategies/trust-taxation.md` - Updated rates and 199A references
+
+**Content Changes:**
+- Removed all "TCJA sunset" urgency messaging
+- Updated all exemption amounts to $15M/$30M
+- Revised calculations to use 23% QBI deduction
+- Updated SALT examples with new phase-out rules
+- Changed estate planning thresholds from $27M to $30M (married)
+
+### November 27, 2025 - High-Priority Strategies
+
+**Added 8 new strategy documents:**
+- Charitable Lead Trusts
+- Section 754 Elections
+- S-Corp Reasonable Compensation
+- Asset vs Stock Sales
+- NOL Planning
+- Business Tax Credits (WOTC)
+- Split-Dollar Life Insurance
+- Trust Taxation
+
+### November 27, 2025 - Expanded Coverage
+
+**Added 16 new strategy documents:**
+- Estate Planning: QPRTs, Dynasty Trusts, GSTT Planning, Portability Elections
+- Real Estate: 1031 Exchanges, Short-Term Rentals, Self-Rental Rules, Installment Sales, Section 121 Exclusion
+- International: GILTI Planning, Subpart F Income, Tax Treaty Benefits
+- Specialized: Cryptocurrency Tax, Oil & Gas Tax Incentives, Energy Tax Credits, QSBS
+
+### November 2025 - Initial Release
+
+**Created comprehensive tax strategy database with 28+ foundational documents:**
+- Estate Planning strategies
+- Compensation & Benefits strategies
+- Individual Tax strategies
+- Business Deduction strategies
+- International Tax strategies
+- Entity Structuring strategies
+
+---
+
+*Last Updated: November 30, 2025 (Post-OBBBA)*
 *Total Strategies: 85+*
 *Categories: 18*
 *Reflects One Big Beautiful Bill Act provisions signed July 4, 2025*
