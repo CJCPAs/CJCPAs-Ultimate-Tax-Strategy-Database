@@ -2,12 +2,22 @@
 
 ## Overview
 
-A Spousal Lifetime Access Trust (SLAT) is an irrevocable trust created by one spouse for the benefit of the other spouse (and often descendants). The SLAT allows couples to use their gift tax exemption to remove assets from their combined estates while maintaining indirect access to the transferred assets through the beneficiary spouse. SLATs have become increasingly popular as couples seek to lock in the current high exemption before the 2026 sunset.
+A Spousal Lifetime Access Trust (SLAT) is an irrevocable trust created by one spouse for the benefit of the other spouse (and often descendants). The SLAT allows couples to use their gift tax exemption to remove assets from their combined estates while maintaining indirect access to the transferred assets through the beneficiary spouse. With the **$15 million permanent exemption** under OBBBA, SLATs remain valuable for estates exceeding $30 million (married) or for asset protection purposes.
+
+## Effective Dates & Key Law Changes (OBBBA Update)
+
+| Provision | Pre-OBBBA (TCJA) | OBBBA (2025+) |
+|-----------|------------------|---------------|
+| Individual Exemption | $13.99M (2025), sunsetting to ~$7M | **$15M (permanent)** |
+| Married Couple | $27.98M (2025), sunsetting to ~$14M | **$30M (permanent)** |
+| Urgency Level | Critical (use before sunset) | Standard (ongoing strategy) |
+
+**OBBBA Impact**: The anticipated sunset did not occur. SLATs remain valuable for estates exceeding the permanent $30M married exemption, or for asset protection regardless of estate size.
 
 ## Key Benefits
 
 - Remove assets and future appreciation from taxable estate
-- Utilize current high gift tax exemption before 2026 sunset
+- Utilize $15M permanent gift tax exemption strategically
 - Maintain indirect access to assets through beneficiary spouse
 - Protect assets from creditors
 - Provide for spouse and descendants
@@ -85,13 +95,13 @@ To avoid IRC Section 2036/2038 inclusion:
 - Couples wanting asset protection
 - Those with appreciating assets to transfer
 
-### Financial Thresholds
+### Financial Thresholds (Post-OBBBA)
 | Combined Estate | SLAT Recommendation |
 |-----------------|---------------------|
-| Under $13.6M | Generally not needed |
-| $13.6M - $27M | Consider one SLAT |
-| Over $27M | Consider reciprocal SLATs (with care) |
-| High appreciation expected | Strong candidate |
+| Under $30M | For asset protection or growth capture |
+| $30M - $50M | Consider one SLAT for excess |
+| Over $50M | Consider reciprocal SLATs (with care) |
+| High appreciation expected | Strong candidate regardless of size |
 
 ### Less Ideal Candidates
 - Couples with marital discord or divorce risk
@@ -254,35 +264,35 @@ If each spouse creates nearly identical SLATs for the other, IRS may apply the "
 - Consider need for long-term care
 - Market volatility can affect both trust and separate assets
 
-### Tax Law Change Risks
-- Exemption sunset (planned for 2026)
-- Potential retroactive changes (unlikely)
-- State estate tax considerations
-- Future law changes unpredictable
+### Tax Law Considerations (Post-OBBBA)
+- Exemption now permanent at $15M per person
+- No sunset concerns—long-term planning possible
+- State estate tax considerations remain important
+- Monitor for future legislative changes
 
 ## Case Study
 
 ### Scenario
-David and Elizabeth, both age 58, have a combined estate of $35 million. They're concerned about the exemption sunset in 2026 and want to lock in current benefits while maintaining access to funds.
+David and Elizabeth, both age 58, have a combined estate of $50 million. They want to reduce estate taxes and protect assets while maintaining access to funds.
 
-### Current Situation
-- David's assets: $20 million
-- Elizabeth's assets: $15 million
-- Combined: $35 million
-- 2024 combined exemption: $27.22 million
-- Projected 2026 exemption: ~$14 million
-- Potential estate tax (no planning): ~$8.4 million
+### Current Situation (Post-OBBBA)
+- David's assets: $30 million
+- Elizabeth's assets: $20 million
+- Combined: $50 million
+- Permanent combined exemption: $30 million
+- Taxable estate (no planning): $20 million
+- Potential estate tax (no planning): ~$8 million
 
 ### SLAT Strategy
 
-**David Creates SLAT #1 (January 2024):**
+**David Creates SLAT #1:**
 - Funding: $12 million (securities and real estate)
 - Beneficiaries: Elizabeth, children, grandchildren
 - Trustee: Independent trust company
 - Distribution standard: Full discretion for Elizabeth's benefit
 - GST exemption allocated: $12 million
 
-**Elizabeth Creates SLAT #2 (September 2024):**
+**Elizabeth Creates SLAT #2 (6 months later):**
 - Funding: $10 million (different securities, business interest)
 - Beneficiaries: David, children (NOT grandchildren)
 - Trustee: Different trust company
@@ -293,11 +303,11 @@ David and Elizabeth, both age 58, have a combined estate of $35 million. They're
 
 | Metric | Without SLATs | With SLATs |
 |--------|-------------:|------------:|
-| Combined estate | $35,000,000 | $13,000,000 |
-| Less 2026 exemption | ($14,000,000) | ($14,000,000) |
-| Taxable estate | $21,000,000 | $0 |
-| Estate tax (40%) | $8,400,000 | $0 |
-| **Tax savings** | — | **$8,400,000** |
+| Combined estate | $50,000,000 | $28,000,000 |
+| Less permanent exemption | ($30,000,000) | ($30,000,000) |
+| Taxable estate | $20,000,000 | $0 |
+| Estate tax (40%) | $8,000,000 | $0 |
+| **Tax savings** | — | **$8,000,000** |
 
 ### Access Maintained
 - David can receive distributions from Elizabeth's SLAT
@@ -347,4 +357,5 @@ Assuming 6% annual growth over 20 years:
 
 ---
 
-*Last Updated: 2025*
+*Last Updated: November 2025 (Post-OBBBA)*
+*$15M Permanent Exemption—SLATs Valuable for Estates Over $30M or Asset Protection*

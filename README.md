@@ -1,22 +1,28 @@
 # CJCPAs Ultimate Tax Strategy Database
 
-**Document Date: 11.27.25**
+**Document Date: 11.30.25**
 
-*This database has been updated with effective dates and 2026 tax year applicability information.*
+*This database has been updated for the One Big Beautiful Bill Act (OBBBA) signed into law July 4, 2025.*
 
 ## Overview
 
-This comprehensive encyclopedia provides detailed documentation of tax planning strategies for CPAs, tax professionals, and financial advisors. Each strategy includes requirements, risks, client fit criteria, and implementation steps. With **85+ strategies across 18 categories**, this is the definitive resource for tax planning—updated for **2025-2026 effective dates** including TCJA sunset planning.
+This comprehensive encyclopedia provides detailed documentation of tax planning strategies for CPAs, tax professionals, and financial advisors. Each strategy includes requirements, risks, client fit criteria, and implementation steps. With **85+ strategies across 18 categories**, this is the definitive resource for tax planning—updated for **OBBBA 2025** provisions.
 
-## 2026 TCJA Sunset Alert
+## One Big Beautiful Bill Act (OBBBA) - Key Provisions
 
-Many provisions of the Tax Cuts and Jobs Act of 2017 are scheduled to expire after December 31, 2025:
-- **Estate/Gift/GST Exemption:** Drops from ~$13.99M to ~$7M per person
-- **Section 199A QBI Deduction:** Expires
-- **Individual Tax Rates:** Revert to higher pre-TCJA brackets
-- **Standard Deduction:** Returns to lower amounts
+The One Big Beautiful Bill Act, signed July 4, 2025, made sweeping changes to the tax code. Key provisions include:
 
-**Critical Planning Window: Now through December 31, 2025**
+- **SALT Deduction Cap:** Increased from $10,000 to **$40,000** (2025-2029) with income phase-outs starting at $500,000 AGI
+- **Section 199A QBI Deduction:** Made **permanent** and increased from 20% to **23%**
+- **Estate/Gift/GST Exemption:** Permanently increased to **$15,000,000** per person ($30M married)
+- **Bonus Depreciation:** Restored to **100%** permanently for property placed in service after January 20, 2025
+- **Individual Tax Brackets:** TCJA rates made **permanent** (top rate remains 37%)
+- **Standard Deduction:** TCJA amounts made **permanent**
+- **Child Tax Credit:** Increased to $2,500 per child (2025-2028)
+- **No Tax on Tips:** Tips excluded from income tax (subject to limitations)
+- **No Tax on Overtime:** Overtime pay deduction through 2028
+
+**Note:** The anticipated TCJA "sunset" did not occur. Most TCJA provisions are now permanent law.
 
 ---
 
@@ -168,36 +174,38 @@ Each strategy document follows a consistent format:
 | **International exposure** | FEIE, Foreign Tax Credit, GILTI, Subpart F, Treaties |
 | **Real estate income** | Cost Segregation, REPS, STRs, Self-Rental Rules |
 
-### By 2026 Urgency
+### Strategy Priority Guide (Post-OBBBA)
 
-| Strategy | 2026 Urgency Level | Action Required |
-|----------|-------------------|-----------------|
-| Estate/Gift Planning | **CRITICAL** | Use exemption before sunset |
-| Dynasty Trusts | **CRITICAL** | Fund with full GST exemption |
-| SLATs | **CRITICAL** | Establish before exemption drops |
-| GRATs | **HIGH** | Transfer appreciating assets |
-| Section 199A | **HIGH** | Maximize while available |
-| Bonus Depreciation | **HIGH** | Phase-out accelerating |
-| Roth Conversions | **MODERATE** | Lower brackets may end |
-| QSBS | **LOW** | 100% exclusion permanent |
-| Energy Credits | **LOW** | Extended through 2032+ |
+| Strategy | Priority | Notes |
+|----------|----------|-------|
+| Section 199A | **HIGH** | Now permanent at 23%—maximize annually |
+| Bonus Depreciation | **HIGH** | 100% restored—accelerate asset acquisitions |
+| SALT Optimization | **HIGH** | $40K cap through 2029—state planning valuable |
+| Estate Planning | **MODERATE** | $15M permanent—less urgency, still valuable |
+| Roth Conversions | **MODERATE** | Brackets permanent—still beneficial for many |
+| GRATs/IDGTs | **MODERATE** | Strong tools with $15M exemption |
+| QSBS | **STANDARD** | 100% exclusion remains available |
+| Energy Credits | **STANDARD** | Extended through 2032+ |
+| No Tax on Tips/OT | **NEW** | New planning opportunities for eligible workers |
 
 ---
 
 ## Quick Reference Tables
 
-### Key Dollar Amounts (2025)
+### Key Dollar Amounts (2025 - Post-OBBBA)
 
 | Provision | 2025 Amount |
 |-----------|-------------|
-| Estate/Gift/GST Exemption | ~$13,990,000 |
+| Estate/Gift/GST Exemption | **$15,000,000** (permanent) |
 | Annual Gift Exclusion | $19,000 |
 | 401(k) Contribution | $23,500 |
 | IRA Contribution | $7,000 |
 | Social Security Wage Base | $176,100 |
 | Section 179 Limit | $1,250,000 |
-| SALT Deduction Cap | $10,000 |
-| QBI Deduction | 20% (199A) |
+| SALT Deduction Cap | **$40,000** (2025-2029) |
+| QBI Deduction | **23%** (199A - permanent) |
+| Child Tax Credit | **$2,500** (2025-2028) |
+| Bonus Depreciation | **100%** (permanent) |
 
 ### Key Tax Rates (2025)
 
@@ -237,7 +245,7 @@ BY USING THIS GUIDE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE T
 
 ---
 
-*Last Updated: 2025*
+*Last Updated: November 2025 (Post-OBBBA)*
 *Total Strategies: 85+*
 *Categories: 18*
-*Critical Planning Window: Now Through December 31, 2025*
+*Reflects One Big Beautiful Bill Act provisions signed July 4, 2025*

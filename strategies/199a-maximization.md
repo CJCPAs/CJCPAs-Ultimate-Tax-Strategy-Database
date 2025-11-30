@@ -2,43 +2,52 @@
 
 ## Overview
 
-Section 199A provides a deduction of up to 20% of Qualified Business Income (QBI) from pass-through entities and sole proprietorships. Proper planning can maximize this deduction, potentially saving taxpayers thousands in federal income tax.
+Section 199A provides a deduction of up to **23%** of Qualified Business Income (QBI) from pass-through entities and sole proprietorships. The **One Big Beautiful Bill Act (OBBBA)** of 2025 made this deduction **permanent** and increased it from 20% to 23%, representing one of the most significant tax benefits for business owners.
+
+## Effective Dates & Key Law Changes (OBBBA Update)
+
+| Provision | TCJA (2018-2025) | OBBBA (2025+) |
+|-----------|------------------|---------------|
+| QBI Deduction Rate | 20% | **23%** (permanent) |
+| Expiration | December 31, 2025 | **None - Permanent** |
+| W-2 Wage/UBIA Limits | Apply above threshold | Apply above threshold |
+| SSTB Rules | Apply above threshold | Apply above threshold |
+
+**OBBBA Made Section 199A Permanent:** The anticipated expiration did not occur. Pass-through business owners can now plan with certainty that this deduction will continue indefinitely.
 
 ## Key Benefits
 
-- Up to 20% deduction on qualified business income
-- Effective tax rate reduction from 37% to 29.6% for top earners
+- **Up to 23% deduction** on qualified business income (increased from 20%)
+- Effective tax rate reduction from 37% to **28.49%** for top earners
 - Available to S corporations, partnerships, LLCs, and sole proprietors
+- **Now permanent**—long-term planning certainty
 - Stacks with other deductions and strategies
 
 ## Deduction Calculation
 
-### Basic Calculation
+### Basic Calculation (Post-OBBBA)
 **QBI Deduction = Lesser of:**
-1. 20% of QBI, or
+1. **23%** of QBI, or
 2. Greater of:
    - 50% of W-2 wages paid, or
    - 25% of W-2 wages + 2.5% of UBIA (unadjusted basis of qualified property)
 
-### Taxable Income Thresholds (2026)
+### Taxable Income Thresholds (2025-2026)
 
 | Filing Status | Full Deduction Below | Phase-out Range | Fully Limited Above |
 |--------------|---------------------|-----------------|-------------------|
 | Single | $191,950 | $191,950 - $241,950 | $241,950 |
 | MFJ | $383,900 | $383,900 - $483,900 | $483,900 |
 
-*Note: Thresholds are indexed for inflation. 2026 amounts are projected estimates based on historical inflation adjustments.*
+*Note: Thresholds are indexed for inflation annually.*
 
-## Effective Dates
+### Impact of 23% vs. 20% Rate
 
-| Provision | Effective Date | Expiration |
-|-----------|---------------|------------|
-| Section 199A Deduction | January 1, 2018 | December 31, 2025 (scheduled) |
-| Current Law Extension | Pending Congressional Action | TBD |
-
-**⚠️ Important**: Section 199A is currently scheduled to expire after December 31, 2025, under the Tax Cuts and Jobs Act (TCJA). Congress may extend or make permanent this provision. Monitor legislative developments for 2026 applicability.
-
-**If Section 199A Expires**: Consider increased focus on entity structuring for self-employment tax savings, retirement plan optimization, and other deduction strategies. The relative value of C corporation structure may increase compared to pass-through entities.
+| QBI Amount | Old Deduction (20%) | New Deduction (23%) | Additional Savings (37% rate) |
+|------------|--------------------|--------------------|------------------------------|
+| $200,000 | $40,000 | $46,000 | $2,220 |
+| $500,000 | $100,000 | $115,000 | $5,550 |
+| $1,000,000 | $200,000 | $230,000 | $11,100 |
 
 ## Requirements
 
@@ -113,13 +122,13 @@ Above threshold, deduction limited by:
 3. **Calculation Example**
    - QBI: $500,000
    - W-2 wages: $100,000
-   - 20% of QBI: $100,000
+   - 23% of QBI: $115,000
    - 50% of W-2: $50,000
    - **Deduction limited to $50,000**
 
-   After increasing wages to $200,000:
-   - 50% of W-2: $100,000
-   - **Full $100,000 deduction now available**
+   After increasing wages to $230,000:
+   - 50% of W-2: $115,000
+   - **Full $115,000 deduction now available**
 
 ### Strategy 3: Property Basis (UBIA) Optimization
 
@@ -227,10 +236,10 @@ Medical practice group with $1,000,000 combined QBI. Three physician partners. T
 **Step 3: Calculate Results**
 - SSTB QBI: $800,000 (limited above threshold)
 - Non-SSTB QBI: $200,000 (fully eligible)
-- Non-SSTB deduction: $200,000 × 20% = $40,000
+- Non-SSTB deduction: $200,000 × 23% = $46,000
 - Assuming adequate W-2 wages/UBIA
 
-**Annual Tax Savings**: $40,000 × 37% = $14,800
+**Annual Tax Savings**: $46,000 × 37% = $17,020
 
 ## Key Tax Code References
 
@@ -238,6 +247,7 @@ Medical practice group with $1,000,000 combined QBI. Three physician partners. T
 - **IRC Section 199A(d)**: Specified Service Trade or Business
 - **Treas. Reg. 1.199A-1 through 1.199A-6**: Detailed regulations
 - **Notice 2019-07**: Real estate rental safe harbor
+- **OBBBA (2025)**: Made permanent at 23% deduction rate
 
 ## Related Strategies
 
@@ -247,4 +257,5 @@ Medical practice group with $1,000,000 combined QBI. Three physician partners. T
 
 ---
 
-*Last Updated: 11.27.25*
+*Last Updated: November 2025 (Post-OBBBA)*
+*Section 199A Now Permanent at 23%—Maximize Your QBI Deduction!*

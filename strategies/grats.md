@@ -291,11 +291,11 @@ Year 4: GRAT #2 remainder → GRAT #4
 - Lock in favorable rates
 - Consider waiting for rate decreases
 
-### Legislative Risk
-- Proposals to require minimum 10-year terms
-- Proposals to require minimum gift element
-- Grandfathering typically applies
-- Act before potential law changes
+### Legislative Considerations (Post-OBBBA)
+- OBBBA did not eliminate or restrict GRATs
+- Zeroed-out GRATs remain valid planning tool
+- No minimum term requirements enacted
+- Monitor for future legislative proposals
 
 ### Administrative Complexity
 - Annual annuity payments required
@@ -390,4 +390,5 @@ Instead of single 2-year GRAT, Margaret could use four 6-month GRATs:
 
 ---
 
-*Last Updated: 2025*
+*Last Updated: November 2025 (Post-OBBBA)*
+*GRATs Remain Effective—Transfer Appreciation Above 7520 Rate Tax-Free*

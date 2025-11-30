@@ -29,15 +29,14 @@ Lifetime gift tax strategies enable taxpayers to transfer wealth to family membe
 - Resets annually (use it or lose it)
 - Present interest requirement
 
-### Lifetime Gift/Estate Tax Exemption
+### Lifetime Gift/Estate Tax Exemption (Post-OBBBA)
 
 | Year | Individual Exemption | Married Couple |
 |------|---------------------|----------------|
 | 2024 | $13.61 million | $27.22 million |
-| 2025 | $13.99 million | $27.98 million |
-| 2026 (projected) | ~$7 million | ~$14 million |
+| 2025+ | **$15.00 million** | **$30.00 million** |
 
-**Important**: The exemption is scheduled to sunset after 2025, reverting to approximately $7 million (adjusted for inflation).
+**OBBBA Update**: The One Big Beautiful Bill Act (2025) permanently set the estate/gift/GST exemption at $15 million per person ($30 million for married couples). The anticipated TCJA sunset did not occur.
 
 ### Gift Tax Rates
 
@@ -69,17 +68,17 @@ Required when:
 ## Client Fit Criteria
 
 ### Ideal Candidates
-- High-net-worth individuals with estates exceeding exemption
+- High-net-worth individuals with estates exceeding $15M exemption
 - Those with appreciating assets
 - Parents/grandparents wanting to help next generation
 - Business owners with succession planning needs
 - Individuals with excess cash flow
-- Those concerned about exemption sunset in 2026
+- Those wanting to transfer wealth while alive to witness benefits
 
 ### Gift Timing Considerations
 - Gift during low-value periods (market dips)
 - Gift before anticipated appreciation
-- Gift while exemption is historically high (pre-2026)
+- Gift to shift income to lower-bracket beneficiaries
 - Gift when donor's income tax bracket is lower than donee's
 
 ## Implementation Strategies
@@ -117,10 +116,10 @@ Required when:
    - Consider state estate tax thresholds
 
 2. **Gift Sizing**
-   - Use exemption for large transfers now
+   - Use exemption for large transfers strategically
    - Focus on high-growth assets
    - Consider "clawback" rules (none under current law)
-   - Gift before 2026 sunset if appropriate
+   - $15M permanent exemption provides flexibility
 
 3. **Asset Selection**
    - Appreciating assets maximize benefit
@@ -247,49 +246,49 @@ Required when:
 - Gifts may create penalty period
 - Consider long-term care needs before gifting
 
-### Sunset Risk (2026)
-- Exemption scheduled to decrease dramatically
-- "Use it or lose it" mentality may be appropriate
-- No clawback on gifts made before sunset
-- Consider accelerating gift planning
+### Exemption Stability (Post-OBBBA)
+- Exemption now permanently set at $15M per person
+- No sunset concerns—long-term planning possible
+- Couples have $30M combined permanent exemption
+- Focus can shift from urgency to strategic optimization
 
 ## Case Study
 
 ### Scenario
-Robert and Sandra, both age 65, have a $30 million estate. They have 3 children and 6 grandchildren. They want to minimize estate taxes while maintaining financial security.
+Robert and Sandra, both age 65, have a $45 million estate. They have 3 children and 6 grandchildren. They want to minimize estate taxes while maintaining financial security.
 
-### Current Situation
-- Estate: $30 million
-- 2024 exemption: $27.22 million (combined)
-- Projected estate tax (no planning): ~$1.1 million
-- Post-2025 exposure (at $14M exemption): ~$6.4 million in estate tax
+### Current Situation (Post-OBBBA)
+- Estate: $45 million
+- 2025+ exemption: $30 million (combined, permanent)
+- Taxable estate without planning: $15 million
+- Projected estate tax (no planning): ~$6 million
 
 ### Gifting Strategy
 
 **Phase 1: Annual Exclusion Program**
-- 9 beneficiaries × $36,000 = $324,000/year
-- 10-year transfer: $3.24 million
+- 9 beneficiaries × $38,000 = $342,000/year
+- 10-year transfer: $3.42 million
 
 **Phase 2: 529 Front-Loading**
-- 6 grandchildren × $180,000 = $1,080,000
+- 6 grandchildren × $190,000 = $1,140,000
 - Immediate removal from estate
 
-**Phase 3: Large Exemption Gifts (Before 2026)**
+**Phase 3: Strategic Exemption Gifts**
 - Gift $10 million to irrevocable trust
-- Uses ~$10M of combined exemption
+- Uses $10M of combined $30M exemption
 - Removes future appreciation from estate
 
 ### Results
 | Item | Amount |
 |------|--------|
-| Starting estate | $30,000,000 |
-| Annual exclusion gifts (10 years) | ($3,240,000) |
-| 529 contributions | ($1,080,000) |
+| Starting estate | $45,000,000 |
+| Annual exclusion gifts (10 years) | ($3,420,000) |
+| 529 contributions | ($1,140,000) |
 | Exemption gifts to trust | ($10,000,000) |
-| Remaining estate (before growth) | $15,680,000 |
-| Remaining exemption (pre-2026) | ~$17,220,000 |
-| Post-2026 exemption | ~$14,000,000 |
-| Estate tax saved | ~$4,000,000+ |
+| Remaining estate (before growth) | $30,440,000 |
+| Permanent combined exemption | $30,000,000 |
+| Projected taxable estate | ~$440,000 |
+| Estate tax saved | ~$5,800,000+ |
 
 **Additional Benefits:**
 - Trust appreciation (assumed 7% annually) excluded
@@ -339,4 +338,5 @@ Robert and Sandra, both age 65, have a $30 million estate. They have 3 children 
 
 ---
 
-*Last Updated: 2025*
+*Last Updated: November 2025 (Post-OBBBA)*
+*Estate/Gift Exemption Now Permanently $15M per Person ($30M Married)*
