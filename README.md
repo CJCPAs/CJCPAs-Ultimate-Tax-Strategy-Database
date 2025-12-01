@@ -8,6 +8,8 @@
 
 This comprehensive encyclopedia provides detailed documentation of tax planning strategies for CPAs, tax professionals, and financial advisors. Each strategy includes requirements, risks, client fit criteria, and implementation steps. With **85+ strategies across 18 categories**, this is the definitive resource for tax planning—updated for **OBBBA 2025** provisions.
 
+**Want to contribute?** See our [Contributing Guide](CONTRIBUTING.md) for submission guidelines and templates.
+
 ## One Big Beautiful Bill Act (OBBBA) - Key Provisions
 
 The One Big Beautiful Bill Act, signed July 4, 2025, made sweeping changes to the tax code. Key provisions include:
