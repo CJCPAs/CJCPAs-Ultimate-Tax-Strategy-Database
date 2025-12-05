@@ -1,14 +1,30 @@
-# CJCPAs Ultimate Tax Strategy Database
+# CJCPAs Tax Strategy Database
 
-**Document Date: 11.30.25**
+> **IMPORTANT: Please Read Before Using This Resource**
+>
+> This database is for **informational and educational purposes only** and does not constitute professional tax, legal, or financial advice. Tax laws and regulations change frequently, and the information here may not be complete or current. **Always consult with a qualified CPA, tax attorney, or financial advisor** before making decisions about your specific tax situation. See the [full disclaimer](#-important-disclaimer) below.
 
-*This database has been updated for the One Big Beautiful Bill Act (OBBBA) signed into law July 4, 2025.*
+---
+
+**Document Date: 12.05.25**
+
+*Updated for the One Big Beautiful Bill Act (OBBBA) signed into law July 4, 2025.*
+
+---
+
+## Open Source & Community-Driven
+
+**A comprehensive, community-driven resource for tax planning strategies** - covering entity structuring, estate planning, retirement optimization, real estate strategies, and more.
+
+We believe accurate tax planning information should be accessible to tax professionals everywhere. This is an **open source project** and we welcome contributions, corrections, and improvements from the community. No single resource can cover every situation or keep pace with every regulatory change - we improve together.
+
+**Found an issue?** [Open an issue](../../issues) or submit a pull request. See our [Contributing Guide](CONTRIBUTING.md) for details.
+
+---
 
 ## Overview
 
-This comprehensive encyclopedia provides detailed documentation of tax planning strategies for CPAs, tax professionals, and financial advisors. Each strategy includes requirements, risks, client fit criteria, and implementation steps. With **85+ strategies across 18 categories**, this is the definitive resource for tax planning—updated for **OBBBA 2025** provisions.
-
-**Want to contribute?** See our [Contributing Guide](CONTRIBUTING.md) for submission guidelines and templates.
+This database provides detailed documentation of tax planning strategies for CPAs, tax professionals, and financial advisors. Each strategy includes requirements, risks, client fit criteria, and implementation steps. With **85+ strategies across 18 categories**, this is a comprehensive resource for tax planning—updated for **OBBBA 2025** provisions.
 
 ## One Big Beautiful Bill Act (OBBBA) - Key Provisions
 
@@ -228,31 +244,81 @@ Each strategy document follows a consistent format:
 
 ## Important Disclaimer
 
-THIS GUIDE IS FOR INFORMATIONAL AND EDUCATIONAL PURPOSES ONLY.
+**THIS DATABASE IS FOR INFORMATIONAL AND EDUCATIONAL PURPOSES ONLY.**
 
-The information contained in this guide, including all tutorials, templates, examples, charts of accounts, checklists, and reference materials, is provided "as is" without warranty of any kind, express or implied. This guide does not constitute professional accounting, tax, legal, or financial advice. Tax laws change frequently, and strategies should be implemented only after consultation with qualified professionals who can assess individual circumstances. All strategies should be evaluated for economic substance, business purpose, and compliance with applicable regulations.
+The information contained in this database, including all strategy documents, examples, calculations, case studies, and reference materials, is provided "as is" without warranty of any kind, express or implied. This database does not constitute professional tax, legal, accounting, or financial advice.
 
-Please Note:
+### Please Note:
 
-**Not Professional Advice:** This guide is not a substitute for professional accounting, tax, or legal counsel. Every business situation is unique, and the information provided here may not be appropriate for your specific circumstances.
+**Not Professional Advice:** This database is not a substitute for professional tax, legal, or financial counsel. Every taxpayer's situation is unique, and the strategies described here may not be appropriate for your specific circumstances. Tax planning requires analysis of individual facts, income levels, entity structures, state residency, and many other factors that cannot be addressed in a general resource.
 
-**No CPA-Client Relationship:** Reading, using, or relying on this guide does not create a CPA-client, attorney-client, or any other professional relationship between you and the author(s) or publisher(s) of this content.
+**No Professional Relationship:** Reading, using, or relying on this database does not create a CPA-client, attorney-client, or any other professional relationship between you and the author(s), contributors, or publisher(s) of this content.
 
-**Verify with Professionals:** Before implementing any accounting methods, chart of accounts structures, job costing procedures, WIP schedules, or other financial practices described in this guide, you should consult with a qualified Certified Public Accountant (CPA), tax professional, or attorney who is familiar with your specific business situation and applicable laws.
+**Verify with Qualified Professionals:** Before implementing any tax strategy described in this database, you should consult with qualified professionals who can assess your specific situation:
+- **Certified Public Accountant (CPA)** - for tax preparation and planning
+- **Tax Attorney** - for complex transactions, IRS disputes, and legal structuring
+- **Estate Planning Attorney** - for trusts, estate plans, and wealth transfer strategies
+- **Financial Advisor** - for investment and retirement planning integration
+- **Enrolled Agent (EA)** - for IRS representation and tax matters
 
-**Accuracy Not Guaranteed:** While every effort has been made to ensure the accuracy and completeness of the information in this guide, accounting standards (GAAP), tax laws, and software features change frequently. The author(s) make no guarantees that the information is current, complete, or error-free.
+**Accuracy Not Guaranteed:** While every effort has been made to ensure accuracy, tax laws, Treasury Regulations, IRS guidance, and court interpretations change frequently. The author(s) and contributors make no guarantees that the information is current, complete, or error-free. Even the IRS's own publications acknowledge they cannot cover every situation—neither can this database.
 
-**Limitation of Liability:** In no event shall the author(s), publisher(s), or contributors be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising out of or related to your use of or reliance on this guide.
+**Jurisdictional Variations:** Tax treatment varies significantly by state and local jurisdiction. Many strategies discussed here focus on federal tax law and may have different implications depending on your state of residence, business location, or the states where you conduct business. State conformity to federal tax law is not uniform.
 
-**Your Responsibility:** You are solely responsible for determining whether the information in this guide is appropriate for your situation and for any actions you take based on this information.
+**Open Source Disclaimer:** This is a community-driven, open source project. Content is contributed by various individuals and, while we strive for accuracy, contributions may contain errors or become outdated. Always verify critical tax information with authoritative sources such as the Internal Revenue Code, Treasury Regulations, IRS publications, or qualified tax professionals.
 
-BY USING THIS GUIDE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO THIS DISCLAIMER.
+**Limitation of Liability:** In no event shall the author(s), publisher(s), or contributors be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising out of or related to your use of or reliance on this database.
+
+**Your Responsibility:** You are solely responsible for determining whether the information in this database is appropriate for your situation and for any actions you take based on this information.
+
+### Regulatory References
+
+For authoritative guidance, consult these primary sources:
+- **Internal Revenue Code (IRC):** [uscode.house.gov](https://uscode.house.gov/browse/prelim@title26)
+- **Treasury Regulations:** [ecfr.gov](https://www.ecfr.gov/current/title-26)
+- **IRS Publications:** [irs.gov/publications](https://www.irs.gov/publications)
+- **IRS Forms and Instructions:** [irs.gov/forms-instructions](https://www.irs.gov/forms-instructions)
+- **Tax Court Opinions:** [ustaxcourt.gov](https://www.ustaxcourt.gov/case-opinions)
+
+**BY USING THIS DATABASE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO THIS DISCLAIMER.**
 
 ---
 
 ## Change Log
 
 This section documents all significant updates to the tax strategy database for transparency and version tracking.
+
+### December 5, 2025 - Legal Review and Documentation Update
+
+**Attorney-recommended changes for legal compliance and accuracy:**
+
+Based on feedback from legal counsel, we have made the following improvements to protect users and clarify the nature of this resource:
+
+**Disclaimer and Warnings:**
+- Added prominent warning banner at the top of README (visible before any content)
+- Enhanced full disclaimer with tax-specific professional guidance
+- Added list of qualified professionals users should consult (CPA, Tax Attorney, Estate Attorney, EA)
+- Added jurisdictional variation notice for state tax differences
+- Added open source disclaimer acknowledging community contributions may contain errors
+
+**Overclaiming Language Removed:**
+- Changed title from "Ultimate Tax Strategy Database" to "Tax Strategy Database"
+- Removed "definitive resource" claim from overview
+- Revised language to appropriately scope the resource's limitations
+
+**Community and Open Source Messaging:**
+- Added "Open Source & Community-Driven" section near the top
+- Emphasized that no single resource covers every situation
+- Encouraged community contributions, corrections, and improvements
+- Added clear links for reporting issues and contributing
+
+**Regulatory References Added:**
+- Added links to authoritative sources (IRC, Treasury Regs, IRS Publications)
+- Added Tax Court opinions reference
+
+**Files Updated:**
+- `README.md` - Complete documentation overhaul
+- `CONTRIBUTING.md` - Enhanced accuracy standards and guidelines
 
 ### November 30, 2025 - Comprehensive OBBBA Sweep (All Strategy Files)
 
@@ -357,7 +423,7 @@ The One Big Beautiful Bill Act was signed into law on July 4, 2025, making sweep
 
 ### November 2025 - Initial Release
 
-**Created comprehensive tax strategy database with 28+ foundational documents:**
+**Created foundational tax strategy database with 28+ documents:**
 - Estate Planning strategies
 - Compensation & Benefits strategies
 - Individual Tax strategies
@@ -367,7 +433,8 @@ The One Big Beautiful Bill Act was signed into law on July 4, 2025, making sweep
 
 ---
 
-*Last Updated: November 30, 2025 (Post-OBBBA)*
+*Last Updated: December 2025*
 *Total Strategies: 85+*
 *Categories: 18*
 *Reflects One Big Beautiful Bill Act provisions signed July 4, 2025*
+*This is an open source, community-driven project. Contributions welcome!*

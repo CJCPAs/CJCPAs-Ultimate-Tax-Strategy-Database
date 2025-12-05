@@ -1,16 +1,33 @@
-# Contributing to CJCPAs Ultimate Tax Strategy Database
+# Contributing to CJCPAs Tax Strategy Database
 
-Thank you for your interest in contributing to this tax strategy database! This guide explains how to submit new strategies, update existing content, and ensure your contributions meet our quality standards.
+Thank you for your interest in contributing to this tax strategy database! This is a **living, open source document** maintained by the community. We welcome contributions from CPAs, tax attorneys, enrolled agents, and other tax professionals.
+
+Together, we can make tax planning knowledge more accessible and accurate for everyone.
+
+> **Important:** All contributions must meet our accuracy standards. Tax information affects real decisions—please cite authoritative sources and acknowledge limitations.
 
 ## Table of Contents
 
+- [Our Philosophy](#our-philosophy)
 - [Before You Contribute](#before-you-contribute)
 - [Types of Contributions](#types-of-contributions)
 - [Strategy Document Format](#strategy-document-format)
 - [Style Guidelines](#style-guidelines)
+- [Accuracy Standards](#accuracy-standards)
 - [Submission Process](#submission-process)
 - [Review Criteria](#review-criteria)
 - [Legal and Compliance Notes](#legal-and-compliance-notes)
+
+---
+
+## Our Philosophy
+
+This database operates on these principles:
+
+1. **Accuracy over completeness** - We'd rather have fewer strategies documented correctly than more strategies with errors
+2. **Humility about limitations** - No resource can cover every situation; we acknowledge what we don't cover
+3. **Community improvement** - Errors will happen; we fix them transparently and thank those who report them
+4. **Professional standards** - Content should meet the standard a CPA would expect from a peer
 
 ---
 
@@ -237,14 +254,64 @@ Always cite primary sources:
 
 ---
 
+## Accuracy Standards
+
+### Avoiding Overclaiming
+
+**Do not use language that overclaims the scope or authority of this resource:**
+
+| Avoid | Use Instead |
+|-------|-------------|
+| "The definitive guide" | "A comprehensive resource" |
+| "Everything you need to know" | "Key topics including..." |
+| "The most comprehensive" | "A detailed resource" |
+| "Every detail" | "Important considerations" |
+| "Always" (without qualification) | "Generally" or "In most cases" |
+| "Never" (without qualification) | "Rarely" or "In most cases, avoid" |
+
+### Acknowledging Limitations
+
+When writing strategy documents:
+
+1. **Note exceptions** - If a rule has exceptions, mention them (even if you don't detail all of them)
+2. **Acknowledge complexity** - If a topic has nuances beyond the scope of the document, say so
+3. **Reference professionals** - Remind readers to consult qualified professionals for their specific situation
+4. **State jurisdictional limits** - Note when guidance applies only to federal tax or specific states
+
+### Citing Authoritative Sources
+
+Every strategy document should cite primary sources:
+
+- **Internal Revenue Code (IRC)** - The actual law (e.g., IRC Section 199A)
+- **Treasury Regulations** - IRS interpretive rules (e.g., Treas. Reg. 1.199A-1)
+- **IRS Guidance** - Revenue Rulings, Revenue Procedures, Notices, Announcements
+- **Court Cases** - Tax Court, Circuit Courts, Supreme Court decisions
+
+**Where to find authoritative sources:**
+- IRC: [uscode.house.gov](https://uscode.house.gov/browse/prelim@title26)
+- Treasury Regulations: [ecfr.gov](https://www.ecfr.gov/current/title-26)
+- IRS Guidance: [irs.gov](https://www.irs.gov/)
+- Tax Court: [ustaxcourt.gov](https://www.ustaxcourt.gov/)
+
+### Handling Uncertainty
+
+When tax treatment is unclear or debated:
+
+1. **State the uncertainty** - "The IRS has not issued definitive guidance on..."
+2. **Present multiple views** - "Some practitioners argue X, while others take position Y"
+3. **Note the risk** - "Taking this position may increase audit risk"
+4. **Recommend professional guidance** - "Consult with a tax attorney before..."
+
+---
+
 ## Submission Process
 
 ### Step 1: Fork and Clone
 
 ```bash
 # Fork the repository on GitHub, then:
-git clone https://github.com/YOUR-USERNAME/CJCPAs-Ultimate-Tax-Strategy-Database.git
-cd CJCPAs-Ultimate-Tax-Strategy-Database
+git clone https://github.com/YOUR-USERNAME/CJCPAs-Tax-Strategy-Database.git
+cd CJCPAs-Tax-Strategy-Database
 ```
 
 ### Step 2: Create a Branch
@@ -322,30 +389,54 @@ All contributions are reviewed against these criteria:
 
 ## Legal and Compliance Notes
 
-### Disclaimer
+### Important Disclaimers for Contributors
 
-This database is for educational and informational purposes. Contributors should understand:
+This database is for **educational and informational purposes only**. As a contributor, you should understand:
 
-1. **No tax advice** - Content should inform, not advise specific taxpayers
-2. **Professional judgment required** - Strategies require professional analysis
-3. **Facts and circumstances** - Results depend on individual situations
-4. **State variations** - Strategies may differ by state jurisdiction
+1. **No tax advice** - Content should inform tax professionals, not advise specific taxpayers
+2. **Professional judgment required** - All strategies require professional analysis of individual circumstances
+3. **Facts and circumstances** - Results depend on each taxpayer's unique situation
+4. **State variations** - Strategies may have different implications by state jurisdiction
+5. **Regulatory changes** - Tax law changes frequently; content may become outdated
+
+### Open Source Acknowledgment
+
+By contributing, you acknowledge that:
+
+- Your contributions become part of an open source project
+- Other contributors may modify your work
+- Content may contain errors despite best efforts
+- The database cannot cover every situation or edge case
+- Users are responsible for verifying information with authoritative sources
 
 ### Prohibited Content
 
-Do not submit:
+**Do not submit:**
 
 - Strategies based on tax fraud or evasion
 - Schemes lacking economic substance
-- Listed transactions or substantially similar arrangements
+- Listed transactions or substantially similar arrangements (see [IRS Notice 2009-59](https://www.irs.gov/businesses/corporations/listed-transactions-and-substantially-similar-transactions))
 - Content promoting abusive tax shelters
 - Strategies relying on non-disclosure to succeed
+- Claims that guarantee specific tax outcomes
+- Advice that contradicts established IRS guidance without noting the risk
 
-### Attribution
+### Attribution and Sources
 
-- Cite sources for data, statistics, or quoted material
-- Do not copy content from copyrighted sources without permission
-- Original analysis and explanation is expected
+- **Cite sources** for data, statistics, thresholds, or quoted material
+- **Do not copy** content from copyrighted sources without permission
+- **Original analysis** and explanation is expected
+- **Link to authoritative sources** (IRS, Treasury, Tax Court) where possible
+
+### Regulatory Bodies
+
+For reference, tax practice is governed by:
+
+- **Internal Revenue Service (IRS)** - Federal tax administration
+- **Treasury Department** - Tax regulations and guidance
+- **Office of Professional Responsibility (OPR)** - Circular 230 enforcement
+- **State Departments of Revenue** - State tax administration
+- **State Boards of Accountancy** - CPA licensing and ethics
 
 ---
 
@@ -371,4 +462,4 @@ When making updates, add an entry to the Change Log section in README.md:
 
 ---
 
-*Thank you for helping keep this database accurate and comprehensive!*
+*Thank you for helping improve this database. Together, we make tax planning knowledge more accessible and accurate for everyone.*
